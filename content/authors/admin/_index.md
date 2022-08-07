@@ -1,6 +1,6 @@
 ---
-title: Hoang Gam Emma
 role: Vietnamese teacher
+avatar_filename: z3625017005578_4a92f8aaf828a8e5a78a386b27626eca.jpg
 bio: My research interests include Vietnamese language and culture.
 interests:
   - Artificial Intelligence
@@ -23,8 +23,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Da Nang University
+    url: ""
 education:
   courses:
     - course: PhD in Artificial Intelligence
@@ -36,9 +36,10 @@ education:
     - course: BSc in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2008
-email: ""
 superuser: true
 highlight_name: true
+title: Hoang Gam Emma
+email: ""
 ---
 My name is Hoang Gam Emma.
 
