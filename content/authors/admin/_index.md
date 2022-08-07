@@ -1,6 +1,6 @@
 ---
 role: Vietnamese teacher
-avatar_filename: z3625017005578_4a92f8aaf828a8e5a78a386b27626eca.jpg
+avatar_filename: z3625017005578_4a92f8aaf828a8e5a78a386b27626eca-modified.png
 bio: My research interests include Vietnamese language and culture.
 interests:
   - Artificial Intelligence
@@ -44,5 +44,3 @@ email: ""
 My name is Hoang Gam Emma.
 
 I started teaching Vietnamese 5 years ago and with my accumulated experience, I start this academy with the desire to introduce to foreigners the Vietnamese language and Vietnamese culture. We teach Vietnamese at all levels from pronunciation, conversation, grammar, Vietnamese exams,...
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
