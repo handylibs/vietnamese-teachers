@@ -37,7 +37,7 @@ education:
       year: 2008
 superuser: true
 highlight_name: true
-title: Hoang Gam Emma
+title: "Hoang Gam Emma "
 email: ""
 ---
 My name is Hoang Gam Emma.
