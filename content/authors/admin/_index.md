@@ -1,6 +1,6 @@
 ---
 role: Vietnamese teacher
-avatar_filename: kgxgeh.png
+avatar_filename: https://handylib.s3.amazonaws.com/gam.png
 bio: My research interests include Vietnamese language and culture.
 interests:
   - Vietnamese Language
