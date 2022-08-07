@@ -1,8 +1,7 @@
 ---
 title: Hoang Gam Emma
 role: Vietnamese teacher
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include Vietnamese language and culture.
 interests:
   - Artificial Intelligence
   - Computational Linguistics
