@@ -6,7 +6,7 @@ widget: blank
 widget_id: home-page
 headless: true
 weight: 15
-title: VIETNAMESE TEACH
+title: VIETNAMESE TEACHERS
 subtitle: ""
 active: true
 design:
