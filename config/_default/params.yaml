@@ -41,9 +41,9 @@ header:
 
 # Site footer
 
-footer:
-  copyright:
-    notice: '© {year} by Vienamese Teachers.'
+#footer:
+#  copyright:
+#    notice: '© {year} by Vienamese Teachers.'
 #    license:
 #      enable: true
 #      allow_derivatives: false
