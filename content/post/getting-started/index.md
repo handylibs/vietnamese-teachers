@@ -2,9 +2,9 @@
 title: Welcome to Vietnamese Teachers
 subtitle: Learn Vietnamese 1 student - 1 tutor for all levels
 date: 2020-12-13T00:00:00.000Z
-summary: Welcome 👋 We know that first impressions are important, so we've
-  populated your new site with some initial content to help you get familiar
-  with everything in no time.
+summary: I started teaching Vietnamese 5 years ago and with my accumulated
+  experience, I start this academy with the desire to introduce to foreigners
+  the Vietnamese language and Vietnamese culture.
 draft: false
 featured: false
 authors:
