@@ -1,5 +1,5 @@
 ---
-title: Welcome to Vietnamese Teachers page
+title: Welcome to Vietnamese Teachers
 subtitle: Learn Vietnamese 1 student - 1 tutor for all levels
 date: 2020-12-13T00:00:00.000Z
 summary: Welcome 👋 We know that first impressions are important, so we've
