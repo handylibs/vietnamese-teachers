@@ -1,6 +1,6 @@
 ---
-title: Nelson Bighetti
-role: Professor of Artificial Intelligence
+title: Hoang Gam Emma
+role: Vietnamese teacher
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
