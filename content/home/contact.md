@@ -17,7 +17,7 @@ content:
     - Monday 10:00 to 13:00
     - Wednesday 09:00 to 10:00
   phone: 035 216 0058
-  appointment_url: [https://calendly.com](https://calendly.com/ilokyluck/30min)
+  appointment_url: [https://calendly.com/ilokyluck/30min]
   address:
     city: Da Nang
     postcode: "550000"
