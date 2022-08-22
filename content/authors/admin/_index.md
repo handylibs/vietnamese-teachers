@@ -29,7 +29,7 @@ education:
   courses:
     - course: "Methodology of teaching Vietnamese as a Foreign Language "
       institution: University of Social Sciences & Humanities
-      year: 2015
+      year: 2017
 superuser: true
 highlight_name: true
 title: "Hoang Gam Emma "
