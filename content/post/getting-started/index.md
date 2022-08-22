@@ -1,10 +1,13 @@
 ---
-title: Welcome to Vietnamese Teachers
+title: Teaching stories
 subtitle: Learn Vietnamese 1 student - 1 tutor for all levels
 date: 2020-12-13T00:00:00.000Z
-summary: I started teaching Vietnamese 5 years ago and with my accumulated
-  experience, I start this academy with the desire to introduce to foreigners
-  the Vietnamese language and Vietnamese culture.
+summary: >-
+  Cô ơi, I started learning Vietnamese from zero, how should I start learning
+  Vietnamese?
+
+
+  This is the question I get the most from students. In fact, many students are quite confused, on the one hand, they want to learn to communicate in Vietnamese, on the other hand, they have many difficulties when learning Vietnamese pronunciation.
 draft: false
 featured: false
 authors:
@@ -13,10 +16,8 @@ authors:
 lastmod: 2020-12-13T00:00:00.000Z
 tags:
   - Academic
-  - 开源
 categories:
-  - Demo
-  - 教程
+  - Academic
 projects: []
 image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)"
@@ -24,8 +25,8 @@ image:
   placement: 2
   preview_only: false
 ---
-## Overview
+Cô ơi, I started learning Vietnamese from zero, how should I start learning Vietnamese?
 
-Xin chào bạn, cô là Hoàng Gấm - Emma - Giáo viên dạy tiếng Việt
+This is the question I get the most from students. In fact, many students are quite confused, on the one hand, they want to learn to communicate in Vietnamese, on the other hand, they have many difficulties when learning Vietnamese pronunciation.
 
-I started teaching Vietnamese 5 years ago and with my accumulated experience, I start this academy with the desire to introduce to foreigners the Vietnamese language and Vietnamese culture. We teach Vietnamese at all levels from pronunciation, conversation, grammar, Vietnamese exams,...
+From 3-5 lessons, making sure you can pronounce Vietnamese is a commitment from our team. We use Vietnamese teaching methods like teaching Vietnamese to Vietnamese children. Start from pronouncing simple words, then add tones, then read sentences, read paragraphs.
