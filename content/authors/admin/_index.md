@@ -5,7 +5,7 @@ bio: My research interests include Vietnamese language and culture.
 interests:
   - Vietnamese Language
   - Vietnamese Culture
-  - Learning foreign language
+  - Learning foreign languages
 social:
   - icon: envelope
     icon_pack: fas
@@ -27,15 +27,9 @@ organizations:
     url: ""
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: "Methodology of teaching Vietnamese as a Foreign Language "
+      institution: University of Social Sciences & Humanities
+      year: 2015
 superuser: true
 highlight_name: true
 title: "Hoang Gam Emma "
