@@ -24,6 +24,7 @@ image:
   focal_point: ""
   placement: 2
   preview_only: false
+  filename: the-day-you-stop-learning-is-the-day-you-stop-earning-by-peter-thompson-2.jpg
 ---
 Cô ơi, I started learning Vietnamese from zero, how should I start learning Vietnamese?
 
