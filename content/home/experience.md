@@ -27,8 +27,8 @@ experience:
     company_url: ''
     company_logo: ''
     location: Da Nang city
-    date_start: '2017-01'
-    date_end: '2020-04'
+    date_start: '2017-01-01'
+    date_end: '2020-04-01'
     description: ''
 
   - title: Online Vietnamese Teacher
@@ -36,7 +36,7 @@ experience:
     company_url: ''
     company_logo: org-u
     location: Da Nang city
-    date_start: '2020-05'
+    date_start: '2020-05-01'
     date_end: ''
     description: ''
 
