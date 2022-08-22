@@ -23,27 +23,22 @@ date_format: Jan 2022
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Private Vietnamese Tutor for foreingers 
-#    company: GenCoin
-#    company_url: ''
-#    company_logo: org-gc
+    company: ''
+    company_url: ''
+    company_logo: ''
     location: Da Nang city
     date_start: '2017-01'
     date_end: '2020-04'
-#    description: |2-
-#        Responsibilities include:
-        
-#        * Analysing
-#        * Modelling
-#        * Deploying
+    description: ''
 
   - title: Online Vietnamese Teacher
-#    company: University X
-#    company_url: ''
-#    company_logo: org-x
+    company: ''
+    company_url: ''
+    company_logo: org-u
     location: Da Nang city
     date_start: '2020-05'
     date_end: ''
-#    description: Taught electronic engineering and researched semiconductor physics.
+    description: ''
 
 design:
   columns: '2'
