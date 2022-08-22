@@ -34,7 +34,7 @@ experience:
   - title: Online Vietnamese Teacher
     company: ''
     company_url: ''
-    company_logo: org-u
+    company_logo: ''
     location: Da Nang city
     date_start: '2020-05-01'
     date_end: ''
