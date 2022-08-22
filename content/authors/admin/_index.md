@@ -5,6 +5,7 @@ bio: My research interests include Vietnamese language and culture.
 interests:
   - Vietnamese Language
   - Vietnamese Culture
+  - Learning foreign language
 social:
   - icon: envelope
     icon_pack: fas
@@ -40,6 +41,16 @@ highlight_name: true
 title: "Hoang Gam Emma "
 email: ""
 ---
-My name is Hoang Gam Emma.
+**Our teachers**
 
-I started teaching Vietnamese 5 years ago and with my accumulated experience, I start this academy with the desire to introduce to foreigners the Vietnamese language and Vietnamese culture. We teach Vietnamese at all levels from pronunciation, conversation, grammar, Vietnamese exams,...
+My name is Hoang Gam Emma – Founder of Vietnamese Teachers
+
+Our teachers are not only experienced but also understand the learning needs of our students.
+
+All of our teachers are fluent in at least two foreign languages, English, Chinese or Korean.
+
+\- Dedicated teaching
+
+\- Funny lesson
+
+\- Easy to understand method
