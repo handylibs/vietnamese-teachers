@@ -41,10 +41,10 @@ My name is Hoang Gam Emma – Founder of Vietnamese Teachers
 
 Our teachers are not only experienced but also understand the learning needs of our students.
 
-All of our teachers are fluent in at least two foreign languages, English, Chinese or Korean.
+All of our teachers are fluent in at least two foreign languages, English, Chinese and Korean.
 
 \- Dedicated teaching
 
-\- Funny lesson
+\- Funny lessons
 
-\- Easy to understand method
+\- Easy to understand methods
