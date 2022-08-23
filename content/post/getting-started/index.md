@@ -23,7 +23,7 @@ image:
   focal_point: ""
   placement: 2
   preview_only: false
-  filename: the_day.jpg
+  filename: featured.jpg
 ---
 Cô ơi, I started learning Vietnamese from zero, how should I start learning Vietnamese?
 
