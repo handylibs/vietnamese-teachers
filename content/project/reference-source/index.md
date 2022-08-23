@@ -1,6 +1,6 @@
 ---
-title: "Reference sources"
-subtitle: Reference source for learning Vietnamese
+title: "Reference sources for learning Vietnamese"
+subtitle: Reference sources for learning Vietnamese
 date: 2022-08-23T02:04:11.265Z
 summary: >-
   We believe that there are many resources that students can use to develop
