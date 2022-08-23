@@ -25,6 +25,8 @@ image:
   preview_only: false
   filename: featured.jpg
 ---
+
+
 Cô ơi, I started learning Vietnamese from zero, how should I start learning Vietnamese?
 
 This is the question I get the most from students. In fact, many students are quite confused, on the one hand, they want to learn to communicate in Vietnamese, on the other hand, they have many difficulties when learning Vietnamese pronunciation.
