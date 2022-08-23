@@ -35,7 +35,7 @@ highlight_name: true
 title: "Hoang Gam Emma "
 email: ""
 ---
-**Our teachers**
+
 
 My name is Hoang Gam Emma – Founder of Vietnamese Teachers
 
