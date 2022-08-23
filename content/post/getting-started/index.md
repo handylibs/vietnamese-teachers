@@ -12,7 +12,6 @@ draft: false
 featured: false
 authors:
   - admin
-  - 吳恩達
 lastmod: 2020-12-13T00:00:00.000Z
 tags:
   - Academic
