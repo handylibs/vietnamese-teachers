@@ -1,5 +1,5 @@
 ---
-title: "Reference source for learning Vietnamese"
+title: "Reference sources"
 subtitle: Reference source for learning Vietnamese
 date: 2022-08-23T02:04:11.265Z
 summary: >-
