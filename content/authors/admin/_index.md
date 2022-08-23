@@ -3,8 +3,7 @@ role: Vietnamese teacher
 avatar_filename: avatar.jpg
 bio: My research interests include Vietnamese language and culture.
 interests:
-  - Vietnamese Language
-  - Vietnamese Culture
+  - Vietnamese Language and Culture
   - Learning foreign languages
 social:
   - icon: envelope
