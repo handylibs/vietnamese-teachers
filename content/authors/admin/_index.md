@@ -1,6 +1,7 @@
 ---
+title: "Hoang Gam Emma "
 role: Vietnamese teacher
-avatar_filename: avatar.jpg
+avatar_filename: z3486803065594_af8e7fcee89f9a46075e0dee98c3f2f0.jpg
 bio: My research interests include Vietnamese language and culture.
 interests:
   - Vietnamese Language and Culture
@@ -29,10 +30,9 @@ education:
     - course: "Methodology of teaching Vietnamese as a Foreign Language "
       institution: University of Social Sciences & Humanities
       year: 2017
+email: ""
 superuser: true
 highlight_name: true
-title: "Hoang Gam Emma "
-email: ""
 ---
 
 
