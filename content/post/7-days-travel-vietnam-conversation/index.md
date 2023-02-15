@@ -13,6 +13,6 @@ image:
 
 **Xin chào, tôi tên là Emma**
 
-
-
 Bạn/ Anh/ Chị tên là gì ?
+
+![](picture1-1.png)
