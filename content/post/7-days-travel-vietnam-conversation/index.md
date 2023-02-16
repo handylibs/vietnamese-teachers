@@ -16,3 +16,11 @@ image:
 Bạn/ Anh/ Chị tên là gì ?
 
 ![](picture1-1.png)
+
+C﻿hào anh, anh tên là gì?
+
+T﻿ôi tên là Nam, còn chị?
+
+T﻿ôi tên là Lan. Anh khỏe không?
+
+T﻿ôi bình thường, rất vui được gặp chị.
