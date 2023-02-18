@@ -73,7 +73,7 @@ Em đã ăn cơm chưa?
 
 <br />
 
-##### 3.   Bao nhiêu tiền
+##### <h5 style="color:orange;">3.   Bao nhiêu tiền</h5>
 
 ✧   Xin chào, 1 bát phở bao nhiêu tiền?
 
@@ -87,15 +87,15 @@ Phở gà 50.000vnd thôi, phở bò 65.000vnd ạ
 
 <br />
 
-##### 4.   Đi đường
+##### <h5 style="color:red;">4.   Đi đường</h5>
 
 ![](left-or-right.png)
 
-<h5 style="color: orange;">Rẽ phải</h5>      
+<h5 style="color: blue;">Rẽ phải</h5>      
 
-<h5 style="color: orange;">Rẽ trái</h5>            
+<h5 style="color: blue;">Rẽ trái</h5>            
 
-<h5 style="color: orange;">Đi thẳng</h5>                 
+<h5 style="color: blue;">Đi thẳng</h5>                 
 
 ✧   Chị ơi, đi quán cà phê BEN đi thế nà
 
