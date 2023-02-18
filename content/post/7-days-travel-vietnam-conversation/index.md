@@ -91,11 +91,11 @@ Phở gà 50.000vnd thôi, phở bò 65.000vnd ạ
 
 ![](left-or-right.png)
 
-**Rẽ phải** {style="color: orange"}
+**Rẽ phải** {style="color: red"}
 
-**Rẽ trái** {style="color: orange"}
+**Rẽ trái** {style="color: red"}
 
-**Đi thẳng** {style="color: orange"}
+**Đi thẳng** {style="color: red"}
 
 ✧   Chị ơi, đi quán cà phê BEN đi thế nào?
 
