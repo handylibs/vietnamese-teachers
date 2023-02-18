@@ -50,7 +50,7 @@ Em đã ăn cơm chưa?
 
 
 
-##### 2.   Số. 
+##### 2.   Số
 
 ![](one-billion.png)
 
@@ -69,4 +69,20 @@ Em đã ăn cơm chưa?
 
 1 000 000: Một triệu
 
-1 000 000 000: Một tỷ
+1 000 000 000: Một tỷ 
+
+
+
+##### 2.   Bao nhiêu tiền
+
+<!--\[if !supportLists]-->v <!--\[endif]-->Xin chào, 1 bát phở bao nhiêu tiền?
+
+Phở gà 50.000vnd thôi, phở bò 65.000vnd ạ
+
+<!--\[if !supportLists]-->l <!--\[endif]-->
+
+<!--\[if !supportLists]-->v <!--\[endif]-->Chào em, bao nhiêu tiền một cái bánh mì?
+
+20.000 đồng ạ, anh muốn bánh mì gì?
+
+<!--\[if !supportLists]-->v <!--\[endif]-->Cho anh một cái thịt nướng nhé.
