@@ -319,6 +319,6 @@ Dạ, của anh chị là 650.000vnd ạ. 
 
 *Nhắn tin cho cô nếu bạn có bất cứ câu hỏi nào!*
 
-\*LINE: **hoangthigam***
+LINE: **hoangthigam**
 
 </br>
