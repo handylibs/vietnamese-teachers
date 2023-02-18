@@ -91,10 +91,6 @@ Phở gà 50.000vnd thôi, phở bò 65.000vnd ạ
 
 ![](left-or-right.png)
 
-
-
-<p style="color:red;">I am red</p>
-
 <h5 style="color: orange;">Rẽ phải</h5>      
 
 <h5 style="color: orange;">Rẽ trái</h5>            
