@@ -129,6 +129,12 @@ Anh chỉ cần đi thẳng đến ngã tư đầu tiên rồi rẽ trái là đ
 
 ✧   Thế à, rất gần nhỉ. Cảm ơn chị nhiều nhé!
 
+</br>
+
+<hr width="300px;">
+
+</br>
+
 ![](taxi.png)
 
 ✧   Chào anh, mời anh lên xe. Anh muốn đi đâu ạ?
