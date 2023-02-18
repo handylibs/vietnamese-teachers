@@ -83,7 +83,7 @@ Em đã ăn cơm chưa?
 
 ✧   Xin chào, 1 bát phở bao nhiêu tiền?
 
-Phở gà 50.000vnd thôi, phở bò 65.000vnd ạ
+Phở gà 50.000 vnd thôi, phở bò 65.000 vnd ạ.
 
 ✧   Chào em, bao nhiêu tiền một cái bánh mì?
 
@@ -105,7 +105,7 @@ Phở gà 50.000vnd thôi, phở bò 65.000vnd ạ
 
 <br/>
 
-✧   Chị ơi, đi quán cà phê BEN đi thế nà
+✧   Chị ơi, đi quán cà phê BEN đi thế nào.
 
 Em đi thẳng khoảng 50 mét rồi sẽ phải nhé. Quán cà phê ở bên trái đường.
 
@@ -161,9 +161,9 @@ Cảm ơn anh, lát nữa tôi sẽ ghé ăn. 
 
 ✅   Xin chào, cho tôi đi khách sạn Novotel. Từ đây, đi thẳng khoảng 500 mét, sau đó rẽ trái. 
 
-Vâng, của chị là 200.000VND
+Vâng, của chị là 200.000VND.
 
-✅   Cảm ơn, tiền xe đây ạ
+✅   Cảm ơn, tiền xe đây ạ.
 
 </br>
 
@@ -177,7 +177,7 @@ Vâng, của chị là 200.000VND
 
 Chị muốn loại nào?
 
-✧   Cho tôi cà phê sữa, có đá nhé
+✧   Cho tôi cà phê sữa, có đá nhé.
 
 Vâng, của chị là 55.000vnd
 
@@ -215,13 +215,13 @@ Không có gì. 
 
 </br>
 
-✧   Xin chào, tôi có đặt phòng ở đây
+✧   Xin chào, tôi có đặt phòng ở đây.
 
-Xin chào anh, anh cho xin mã đặt phòng ạ
+Xin chào anh, anh cho xin mã đặt phòng ạ!
 
-✧   Vâng, 2390345, tôi đặt qua Agoda, tên tôi là Tom
+✧   Vâng, 2390345, tôi đặt qua Agoda, tên tôi là Tom.
 
-Dạ. Khách sạn đã nhận được đặt phòng của anh. Anh cho xin hộ chiếu ạ
+Dạ. Khách sạn đã nhận được đặt phòng của anh. Anh cho xin hộ chiếu ạ!
 
 ✧   Hộ chiếu của tôi đây. 
 
@@ -235,9 +235,9 @@ Mời anh ngồi chờ một lát. 
 
 ✧   Xin hỏi, ở đây có cho thuê xe máy không?
 
-Có ạ, thuê xe máy 1 ngày 200.000vnd ạ
+Có ạ, thuê xe máy 1 ngày 200.000vnd ạ.
 
-✧   Vậy cho tôi thuê 1 chiếc nhé, tôi cần bây giờ
+✧   Vậy cho tôi thuê 1 chiếc nhé, tôi cần bây giờ.
 
 Vâng, em gửi chìa khóa xe.
 
@@ -261,13 +261,13 @@ Dạ, anh cho xin chìa khóa phòng. Anh vui lòng chờ một lát, chúng tô
 
 </br>
 
-✧   Xin chào quý khách, anh chị có bao nhiêu người ạ
+✧   Xin chào quý khách, anh chị có bao nhiêu người ạ?
 
 2 người, tôi cần bàn có view sông. 
 
-✧   Vâng ạ, mời anh chị đi lối này. Em gửi thực đơn ạ
+✧   Vâng ạ, mời anh chị đi lối này. Em gửi thực đơn ạ.
 
-Cho tôi 1 lẩu hải sản và 2 chai bia Saigon 
+Cho tôi 1 lẩu hải sản và 2 chai bia Saigon. 
 
 ✧   Vâng ạ!
 
@@ -277,11 +277,11 @@ Cho tôi 1 lẩu hải sản và 2 chai bia Saigon 
 
 ✧   Chào em, ở đây có món gì đặc biệt?
 
-Dạ tôm hấp sả cực kỳ ngon ạ
+Dạ tôm hấp sả cực kỳ ngon ạ.
 
-✧   Vậy à, cho anh 1 ký nhé và cho anh thêm vài lon bia
+✧   Vậy à, cho anh 1 ký nhé và cho anh thêm vài lon bia.
 
-Ngoài ra, thêm 1 phần thịt nướng và mì xào
+Ngoài ra, thêm 1 phần thịt nướng và mì xào.
 
 ✧   Dạ.
 
@@ -289,7 +289,7 @@ Ngoài ra, thêm 1 phần thịt nướng và mì xào
 
 </br>
 
-✧   Em ơi, tính tiền
+✧   Em ơi, tính tiền.
 
 Dạ, của anh chị là 650.000vnd ạ. 
 
