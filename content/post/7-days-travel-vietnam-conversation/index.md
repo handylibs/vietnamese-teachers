@@ -8,6 +8,7 @@ image:
   filename: picture2.png
   focal_point: Smart
   preview_only: false
+  alt_text: Teacher and students
 ---
 **Chào hỏi**
 
