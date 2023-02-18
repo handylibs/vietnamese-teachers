@@ -171,6 +171,8 @@ Vâng, của chị là 200.000VND
 
 ![](coffee.png)
 
+</br>
+
 ✧   Cho tôi hỏi 1 cốc cà phê bao nhiêu tiền?
 
 Chị muốn loại nào?
@@ -210,6 +212,8 @@ Không có gì. 
 ##### <h5 style="color:green;">6.   Ở khách sạn</h5>
 
 ![](hotel.png)
+
+</br>
 
 ✧   Xin chào, tôi có đặt phòng ở đây
 
@@ -255,12 +259,18 @@ Dạ, anh cho xin chìa khóa phòng. Anh vui lòng chờ một lát, chúng tô
 
 ![](restaurant.png)
 
-<!--\[if !supportLists]-->Ø <!--\[endif]-->Xin chào quý khách, anh chị có bao nhiêu người ạ
+</br>
+
+✧   Xin chào quý khách, anh chị có bao nhiêu người ạ
 
 2 người, tôi cần bàn có view sông. 
 
-<!--\[if !supportLists]-->Ø <!--\[endif]-->Vâng ạ, mời anh chị đi lối này. Em gửi thực đơn ạ
+✧   Vâng ạ, mời anh chị đi lối này. Em gửi thực đơn ạ
 
 Cho tôi 1 lẩu hải sản và 2 chai bia Saigon 
 
-<!--\[if !supportLists]-->Ø <!--\[endif]-->Vâng ạ!
+✧   Vâng ạ!
+
+<hr width="300px";>
+
+</br>
