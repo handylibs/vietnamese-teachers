@@ -34,8 +34,6 @@ I started teaching Vietnamese in 2017 and with accumulated experience, I decided
 
 *Learn Vietnamese 1 student - 1 tutor for all levels*
 
-*</br>*
-
 {{< youtube jUBdcfkiyX8 >}}
 
 </br>
