@@ -40,19 +40,19 @@ T﻿ôi bình thường, rất vui được gặp chị.
 
 ![](teacher-and-students.png)
 
-   ✧     Xin lỗi, đây có phải là khách sạn ABC không ?
+<p> ✧ &nbsp Xin lỗi, đây có phải là khách sạn ABC không? </p>
 
 Đúng rồi ạ. Mời anh vào.
 
-   ✧     Xin chào chị Lan, chị có khỏe không?
+<p> ✧ &nbsp Xin chào chị Lan, chị có khỏe không? </p>
 
 Cảm ơn em, chị khỏe. Còn em?
 
-   ✧     Em hơi mệt ạ. Hôm qua em làm đêm.
+<p> ✧ &nbsp Em hơi mệt ạ. Hôm qua em làm đêm. /p>
 
 Em đã ăn cơm chưa?
 
-   ✧     Dạ chưa, bây giờ em sẽ đi ăn ạ.
+<p>  ✧ &nbsp Dạ chưa, bây giờ em sẽ đi ăn ạ. </p>
 
 <br />
 
