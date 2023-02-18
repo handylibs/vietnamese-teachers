@@ -13,9 +13,9 @@ image:
 
 **Xin chào, tôi tên là Emma**
 
-Bạn/ Anh/ Chị tên là gì ?
+Bạn/ Anh/ Chị tên là gì ? 
 
-![](picture1-1.png)
+![](non-la-xin-chao-remove-bg-1.png)
 
 C﻿hào anh, anh tên là gì?
 
