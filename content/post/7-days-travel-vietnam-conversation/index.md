@@ -14,6 +14,8 @@ image:
   preview_only: false
   alt_text: Teacher and students
 ---
+
+
 ##### **1.   Chào hỏi**
 
 ###### **Xin chào, tôi tên là Emma**
@@ -162,3 +164,31 @@ Cảm ơn anh, lát nữa tôi sẽ ghé ăn. 
 Vâng, của chị là 200.000VND
 
 ✅   Cảm ơn, tiền xe đây ạ
+
+</br>
+
+##### <h5 style="color:green;">5.   Quán cà phê</h5>
+
+![](coffee.png)
+
+✧   Cho tôi hỏi 1 cốc cà phê bao nhiêu tiền?
+
+Chị muốn loại nào?
+
+✧   Cho tôi cà phê sữa, có đá nhé
+
+Vâng, của chị là 55.000vnd
+
+✧   Có thể thanh toán bằng thẻ không?
+
+Có thể ạ!
+
+<hr width="300px";>
+
+✧   Chào chị, chị muốn dùng gì ạ?
+
+Cho chị một nước ép táo nhé, không đường và ít đá thôi.
+
+✧   Dạ, của chị 60.000vnd ạ.
+
+Đây, chị gửi tiền.
