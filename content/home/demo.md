@@ -5,7 +5,7 @@ advanced:
 widget: blank
 widget_id: home-page
 headless: true
-weight: 15
+weight: 20
 title: VIETNAMESE TEACHERS
 subtitle: ""
 active: true
