@@ -9,7 +9,7 @@ summary: |-
 draft: false
 featured: false
 image:
-  filename: picture2.png
+  filename: non_la_xin_chao-remove-bg2.png
   focal_point: Smart
   preview_only: false
   alt_text: Teacher and students
