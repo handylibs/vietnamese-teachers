@@ -16,7 +16,7 @@ image:
 ---
 </br>
 
-##### **<h5 style="color:chocolate;">1.   Chào hỏi</h5>**
+##### **<h5 style="color:chocolate;">1. Chào hỏi</h5>**
 
 <h6>Xin chào, tôi tên là Emma</h6>
 
@@ -56,7 +56,7 @@ Em đã ăn cơm chưa?
 
 <br />
 
-##### <h5 style="color:lime;">2.   Số</h5>
+##### <h5 style="color:lime;">2. Số</h5>
 
 ![](one-billion.png)
 
@@ -79,7 +79,7 @@ Em đã ăn cơm chưa?
 
 <br />
 
-##### <h5 style="color:orange;">3.   Bao nhiêu tiền</h5>
+##### <h5 style="color:orange;">3. Bao nhiêu tiền</h5>
 
 <div>
 
@@ -97,7 +97,7 @@ Phở gà 50.000 vnd thôi, phở bò 65.000 vnd ạ.
 
 </div>
 
-##### <h5 style="color:red;">4.   Đi đường</h5>
+##### <h5 style="color:red;">4. Đi đường</h5>
 
 ![](left-or-right.png)
 
@@ -171,7 +171,7 @@ Vâng, của chị là 200.000VND.
 
 </br>
 
-##### <h5 style="color:lime;">5.   Quán cà phê</h5>
+##### <h5 style="color:lime;">5. Quán cà phê</h5>
 
 ![](coffee.png)
 
@@ -213,7 +213,9 @@ Cho chị một nước ép táo nhé, không đường và ít đá thôi.
 
 Không có gì. 
 
-##### <h5 style="color:green;">6.   Ở khách sạn</h5>
+</br>
+
+##### <h5 style="color:green;">6. Ở khách sạn</h5>
 
 ![](hotel.png)
 
@@ -259,7 +261,9 @@ Dạ, anh cho xin chìa khóa phòng. Anh vui lòng chờ một lát, chúng tô
 
 ✧   Dạ, cảm ơn anh. Hẹn gặp lại anh lần sau ạ.
 
-##### <h5 style="color:cornflowerblue;">7.   Ở nhà hàng</h5>
+</br>
+
+##### <h5 style="color:cornflowerblue;">7. Ở nhà hàng</h5>
 
 ![](restaurant.png)
 
