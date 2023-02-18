@@ -122,3 +122,27 @@ Anh chỉ cần đi thẳng đến ngã tư đầu tiên rồi rẽ trái là đ
 ✧   Thế à, rất gần nhỉ. Cảm ơn chị nhiều nhé!
 
 ![](taxi.png)
+
+✧   Chào anh, mời anh lên xe. Anh muốn đi đâu ạ?
+
+Xin chào, tôi muốn đi siêu thị G.
+
+✧   Dạ, anh đến Việt Nam lâu chưa?
+
+Cũng 2 tháng rồi ạ, tôi rất thích món ăn Việt Nam.
+
+✧   Vậy à, anh thích món nào nhất ?
+
+Tôi thích bún chả nhất.
+
+✧   Thế à? ở gần đây có quán bún chả rất nổi tiếng.
+
+Cảm ơn anh, lát nữa tôi sẽ ghé ăn. 
+
+<br/>
+
+✅   Xin chào, cho tôi đi khách sạn Novotel. Từ đây, đi thẳng khoảng 500 mét, sau đó rẽ trái. 
+
+Vâng, của chị là 200.000VND
+
+✅   Cảm ơn, tiền xe đây ạ
