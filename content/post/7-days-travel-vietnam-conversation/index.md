@@ -20,7 +20,7 @@ image:
 
 Bạn/ Anh/ Chị tên là gì ? 
 
-![](non_la_xin_chao.png)
+![](non_la_xin_chao-remove-bg2.png)
 
 * C﻿hào anh, anh tên là gì?
 
