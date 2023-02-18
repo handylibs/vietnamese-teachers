@@ -185,6 +185,8 @@ Có thể ạ!
 
 <hr width="300px";>
 
+</br>
+
 ✧   Chào chị, chị muốn dùng gì ạ?
 
 Cho chị một nước ép táo nhé, không đường và ít đá thôi.
@@ -192,3 +194,15 @@ Cho chị một nước ép táo nhé, không đường và ít đá thôi.
 ✧   Dạ, của chị 60.000vnd ạ.
 
 Đây, chị gửi tiền.
+
+<hr width="300px";>
+
+</br>
+
+✧   Chị ơi, chị có biết nhà hàng Chú Tư ở đâu không ạ?
+
+À, nhà hàng đó rất gần. Từ đây anh đi thẳng 300 mét đến ngã tư, sau đó anh rẽ phải và đi tiếp. Nhà hàng đó ở bên phải anh nhé.
+
+✧   Ồ, cảm ơn chị nhiều. 
+
+Không có gì.
