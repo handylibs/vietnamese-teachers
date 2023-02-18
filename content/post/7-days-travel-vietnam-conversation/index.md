@@ -274,3 +274,41 @@ Cho tôi 1 lẩu hải sản và 2 chai bia Saigon 
 <hr width="300px";>
 
 </br>
+
+✧   Chào em, ở đây có món gì đặc biệt?
+
+Dạ tôm hấp sả cực kỳ ngon ạ
+
+✧   Vậy à, cho anh 1 ký nhé và cho anh thêm vài lon bia
+
+Ngoài ra, thêm 1 phần thịt nướng và mì xào
+
+✧   Dạ.
+
+<hr width="300px";>
+
+</br>
+
+✧   Em ơi, tính tiền
+
+Dạ, của anh chị là 650.000vnd ạ. 
+
+✧   Chị thanh toán bằng thẻ nhé!
+
+<hr width="300px";>
+
+</br>
+
+**<h6>Một số câu hay dùng khi đi nhậu</h6>**
+
+✧   Không say không về
+
+✧   1 ,2, 3 dô
+
+✧   Trăm phần trăm (100%)
+
+✧   Cạn ly
+
+*Nhắn tin cho cô nếu bạn có bất cứ câu hỏi nào!*
+
+*LINE: **hoangthigam***
