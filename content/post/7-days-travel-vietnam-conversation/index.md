@@ -167,7 +167,7 @@ Vâng, của chị là 200.000VND
 
 </br>
 
-##### <h5 style="color:green;">5.   Quán cà phê</h5>
+##### <h5 style="color:lime;">5.   Quán cà phê</h5>
 
 ![](coffee.png)
 
@@ -205,4 +205,22 @@ Cho chị một nước ép táo nhé, không đường và ít đá thôi.
 
 ✧   Ồ, cảm ơn chị nhiều. 
 
-Không có gì.
+Không có gì. 
+
+##### <h5 style="color:green;">6.   Ở khách sạn</h5>
+
+![](hotel.png)
+
+✧   Xin chào, tôi có đặt phòng ở đây
+
+Xin chào anh, anh cho xin mã đặt phòng ạ
+
+✧   Vâng, 2390345, tôi đặt qua Agoda, tên tôi là Tom
+
+Dạ. Khách sạn đã nhận được đặt phòng của anh. Anh cho xin hộ chiếu ạ
+
+✧   Hộ chiếu của tôi đây. 
+
+Mời anh ngồi chờ một lát. 
+
+✧   Cảm ơn!
