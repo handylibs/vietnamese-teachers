@@ -18,7 +18,7 @@ image:
 
 ##### **<h5 style="color:chocolate;">1.   Chào hỏi</h5>**
 
-###### <h6>Xin chào, tôi tên là Emma</h6>
+<h6>Xin chào, tôi tên là Emma</h6>
 
 Bạn/ Anh/ Chị tên là gì ? 
 
