@@ -112,3 +112,13 @@ Vậy à, tôi có thể mua vé máy bay ở đâu?
 ✧   Anh có thể mua online hoặc đến quầy bán vé gần đây.
 
 Cảm ơn em!
+
+</br>
+
+✧   Chị ơi, cho hỏi, tôi có thể đi bộ đến trung tâm thương mại (Shopping mall) không?
+
+Anh chỉ cần đi thẳng đến ngã tư đầu tiên rồi rẽ trái là đến. 
+
+✧   Thế à, rất gần nhỉ. Cảm ơn chị nhiều nhé!
+
+![](taxi.png)
