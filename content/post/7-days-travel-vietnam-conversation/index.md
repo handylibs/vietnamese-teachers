@@ -97,11 +97,11 @@ Phở gà 50.000vnd thôi, phở bò 65.000vnd ạ
 
 ![](left-or-right.png)
 
-<h5 style="color: blue;">Rẽ phải</h5>      
+<h5 style="color: chocolate;">Rẽ phải</h5>      
 
-<h5 style="color: blue;">Rẽ trái</h5>            
+<h5 style="color: chocolate;">Rẽ trái</h5>            
 
-<h5 style="color: blue;">Đi thẳng</h5>                 
+<h5 style="color: chocolate;">Đi thẳng</h5>                 
 
 <br/>
 
@@ -224,3 +224,43 @@ Dạ. Khách sạn đã nhận được đặt phòng của anh. Anh cho xin h�
 Mời anh ngồi chờ một lát. 
 
 ✧   Cảm ơn!
+
+<hr width="300px";>
+
+</br>
+
+✧   Xin hỏi, ở đây có cho thuê xe máy không?
+
+Có ạ, thuê xe máy 1 ngày 200.000vnd ạ
+
+✧   Vậy cho tôi thuê 1 chiếc nhé, tôi cần bây giờ
+
+Vâng, em gửi chìa khóa xe.
+
+<hr width="300px";>
+
+</br>
+
+✧   Chào chị, tôi trả phòng.
+
+Dạ, anh cho xin chìa khóa phòng. Anh vui lòng chờ một lát, chúng tôi đang kiểm tra phòng. 
+
+✧   Của anh dùng 1 chai bia và 1 chai nước suối, tổng là 100.000 vnd.
+
+Đúng rồi, anh thanh toán bằng thẻ nhé.
+
+✧   Dạ, cảm ơn anh. Hẹn gặp lại anh lần sau ạ.
+
+##### <h5 style="color:cornflowerblue;">7.   Ở nhà hàng</h5>
+
+![](restaurant.png)
+
+<!--\[if !supportLists]-->Ø <!--\[endif]-->Xin chào quý khách, anh chị có bao nhiêu người ạ
+
+2 người, tôi cần bàn có view sông. 
+
+<!--\[if !supportLists]-->Ø <!--\[endif]-->Vâng ạ, mời anh chị đi lối này. Em gửi thực đơn ạ
+
+Cho tôi 1 lẩu hải sản và 2 chai bia Saigon 
+
+<!--\[if !supportLists]-->Ø <!--\[endif]-->Vâng ạ!
