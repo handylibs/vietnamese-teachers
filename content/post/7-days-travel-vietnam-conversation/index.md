@@ -30,7 +30,11 @@ T﻿ôi tên là Nam, còn chị?
 
 T﻿ôi bình thường, rất vui được gặp chị.
 
+</br>
 
+<hr width="300px;">
+
+</br>
 
 ![](teacher-and-students.png)
 
@@ -115,7 +119,9 @@ Vậy à, tôi có thể mua vé máy bay ở đâu?
 
 Cảm ơn em!
 
-`<hr` `width="500px;">`
+<hr width="300px;">
+
+</br>
 
 ✧   Chị ơi, cho hỏi, tôi có thể đi bộ đến trung tâm thương mại (Shopping mall) không?
 
@@ -141,7 +147,9 @@ Tôi thích bún chả nhất.
 
 Cảm ơn anh, lát nữa tôi sẽ ghé ăn. 
 
-<br/>
+<hr width="300px;">
+
+</br>
 
 ✅   Xin chào, cho tôi đi khách sạn Novotel. Từ đây, đi thẳng khoảng 500 mét, sau đó rẽ trái. 
 
