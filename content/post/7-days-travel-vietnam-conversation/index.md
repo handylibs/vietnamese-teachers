@@ -95,13 +95,13 @@ Phở gà 50.000vnd thôi, phở bò 65.000vnd ạ
 
 <p style="color:red;">I am red</p>
 
-**Rẽ phải** {style="color: red"}
+<h6 style="color: orange">Rẽ phải</h6>      
 
-**Rẽ trái** {style="color: red"}
+<h6 style="color: orange">Rẽ trái</h6>            
 
-**Đi thẳng** {style="color: red"}
+<h6 style="color: orange">Đi thẳng</h6>                 
 
-✧   Chị ơi, đi quán cà phê BEN đi thế nào?
+✧   Chị ơi, đi quán cà phê BEN đi thế nà
 
 Em đi thẳng khoảng 50 mét rồi sẽ phải nhé. Quán cà phê ở bên trái đường.
 
