@@ -14,11 +14,11 @@ image:
   preview_only: false
   alt_text: Teacher and students
 ---
+</br>
 
+##### **<h5 style="color:chocolate;">1.   Chào hỏi</h5>**
 
-##### **1.   Chào hỏi**
-
-###### **Xin chào, tôi tên là Emma**
+###### <h6>Xin chào, tôi tên là Emma</h6>
 
 Bạn/ Anh/ Chị tên là gì ? 
 
@@ -316,3 +316,5 @@ Dạ, của anh chị là 650.000vnd ạ. 
 *Nhắn tin cho cô nếu bạn có bất cứ câu hỏi nào!*
 
 *LINE: **hoangthigam***
+
+</br>
