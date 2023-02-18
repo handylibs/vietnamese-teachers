@@ -14,9 +14,9 @@ image:
   preview_only: false
   alt_text: Teacher and students
 ---
-**Chào hỏi**
+##### **1.   Chào hỏi**
 
-**Xin chào, tôi tên là Emma**
+###### **Xin chào, tôi tên là Emma**
 
 Bạn/ Anh/ Chị tên là gì ? 
 
@@ -47,3 +47,26 @@ Cảm ơn em, chị khỏe. Còn em?
 Em đã ăn cơm chưa?
 
    ✧  Dạ chưa, bây giờ em sẽ đi ăn ạ.
+
+
+
+##### 2.   Số. 
+
+![](one-billion.png)
+
+1. Một
+2. Hai
+3. Ba
+4. Bốn
+5. Năm
+6. Sáu
+7. Bảy
+8. Tám
+9. Chín
+10. Mười
+
+1000: Một nghìn
+
+1 000 000: Một triệu
+
+1 000 000 000: Một tỷ
