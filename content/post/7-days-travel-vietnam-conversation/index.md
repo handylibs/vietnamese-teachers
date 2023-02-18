@@ -52,7 +52,7 @@ Cảm ơn em, chị khỏe. Còn em?
 
 Em đã ăn cơm chưa?
 
-   ✧    Dạ chưa, bây giờ em sẽ đi ăn ạ.
+   ✧     Dạ chưa, bây giờ em sẽ đi ăn ạ.
 
 <br />
 
