@@ -16,7 +16,7 @@ image:
 
 Bạn/ Anh/ Chị tên là gì ? 
 
-![](non-la-xin-chao-remove-bg-1.png)
+![](non_la_xin_chao.png)
 
 C﻿hào anh, anh tên là gì?
 
