@@ -48,7 +48,7 @@ Em đã ăn cơm chưa?
 
    ✧  Dạ chưa, bây giờ em sẽ đi ăn ạ.
 
-
+<br />
 
 ##### 2.   Số
 
@@ -71,7 +71,7 @@ Em đã ăn cơm chưa?
 
 1 000 000 000: Một tỷ 
 
-
+<br />
 
 ##### 3.   Bao nhiêu tiền
 
@@ -85,7 +85,7 @@ Phở gà 50.000vnd thôi, phở bò 65.000vnd ạ
 
 ✧   Cho anh một cái thịt nướng nhé. 
 
-
+<br />
 
 ##### 4.   Đi đường
 
