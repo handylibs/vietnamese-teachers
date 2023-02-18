@@ -81,17 +81,21 @@ Em đã ăn cơm chưa?
 
 ##### <h5 style="color:orange;">3.   Bao nhiêu tiền</h5>
 
-✧   Xin chào, 1 bát phở bao nhiêu tiền?
+<div>
+
+<p> ✧ &nbsp  Xin chào, 1 bát phở bao nhiêu tiền? </p>
 
 Phở gà 50.000 vnd thôi, phở bò 65.000 vnd ạ.
 
-✧   Chào em, bao nhiêu tiền một cái bánh mì?
+<p> ✧ &nbsp Chào em, bao nhiêu tiền một cái bánh mì? </p>
 
 20.000 đồng ạ, anh muốn bánh mì gì?
 
-✧   Cho anh một cái thịt nướng nhé. 
+<p> ✧ &nbsp Cho anh một cái thịt nướng nhé. </p>
 
 <br />
+
+</div>
 
 ##### <h5 style="color:red;">4.   Đi đường</h5>
 
@@ -315,6 +319,6 @@ Dạ, của anh chị là 650.000vnd ạ. 
 
 *Nhắn tin cho cô nếu bạn có bất cứ câu hỏi nào!*
 
-*LINE: **hoangthigam***
+\*LINE: **hoangthigam***
 
 </br>
