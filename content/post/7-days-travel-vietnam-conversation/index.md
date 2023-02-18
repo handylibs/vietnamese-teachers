@@ -97,6 +97,8 @@ Phở gà 50.000vnd thôi, phở bò 65.000vnd ạ
 
 <h5 style="color: blue;">Đi thẳng</h5>                 
 
+<br/>
+
 ✧   Chị ơi, đi quán cà phê BEN đi thế nà
 
 Em đi thẳng khoảng 50 mét rồi sẽ phải nhé. Quán cà phê ở bên trái đường.
@@ -113,7 +115,7 @@ Vậy à, tôi có thể mua vé máy bay ở đâu?
 
 Cảm ơn em!
 
-</br>
+`<hr` `width="500px;">`
 
 ✧   Chị ơi, cho hỏi, tôi có thể đi bộ đến trung tâm thương mại (Shopping mall) không?
 
