@@ -37,7 +37,7 @@ Chờ một lát nhé, vào bàn ngồi đi
 
 ## **<h5 style="color:lime;">2. Bánh xèo + Nem lụi</h5>**
 
-***Bánh xèo hải sản, bánh xèo tôm thịt*** 
+***Bánh xèo hải sản, bánh xèo tôm thịt,...***
 
 ![](banh-xeo-da-nang-3_1629075838.jpg)
 
@@ -68,7 +68,6 @@ Chờ cô nướng lại một lát cho ngon
 
 ## **<h5 style="color:blue;">  4.Bún</h5>**
 
-
 ***Bún chả, Bún bò Huế, Bún chả cá,...***
 
 ![](bun-bo-u-thung-16419442121621454559594.jpg)
@@ -93,7 +92,6 @@ Dạ cay cô ạ. nhiều ớt giúp con ạ
 # **<h5 style="color:teal;"> II. UỐNG GÌ?</h5>**
 
 ## **<h5 style="color:brown;"> 1. Cà phê</h5>**
-
 
 ***Cà phê sữa đá, cà phê dừa, cà phê muối, cà phê trứng, cà phê đen...***
 
@@ -128,7 +126,6 @@ Em có xúc xích chiên, bánh tráng trộn, ốc hút và bánh mì thịt �
 <p> ✧ Vậy à, cho anh 1 dĩa ốc hút và 1 bánh mì thịt<p>
 Dạ vâng.
 
-## 
 **<h5 style="color:teal;">III. Nhậu gì?</h5>**
 
 ### **<h5 style="color:orange;">1. Lẩu hải sản</h5>**
@@ -149,8 +146,6 @@ Dạ vâng, anh chờ em một lát ạ. Anh có cần thêm rau không ạ
 Dạ em gửi anh bill ạ, anh kiểm tra giúp em đúng món chưa ạ
 <p> ✧ Đúng rồi nhé, anh gửi tiền<p>
 Dạ em cảm ơn ạ!
-
-
 
 ## Nhắn tin cho cô nếu bạn có bất cứ câu hỏi nào!
 
