@@ -130,6 +130,8 @@ Dạ vâng.
 
 ### **<h5 style="color:orange;">1. Lẩu hải sản</h5>**
 
+![](lau-hai-san-huong-bien-6787.jpg)
+
 <p> ✧ Mời anh chị ngồi, em gửi thực đơn
 Ở quán nhậu của em, có món gì đặc biệt?
 <p> ✧ Dạ, lẩu hải sản của quán em rất ngon ạ, nhiều khách quay lại nhiều lần vì món này<p>
@@ -139,6 +141,8 @@ Lấy cho anh 1 thùng bia Saigon nhé, bia lạnh nhé
 <p> ✧ Dạ vâng ạ!<p>
 
 ## <h5 style="color:brown;">2. Hải sản</h5>
+
+
 
 <p> ✧ Cho anh gọi thêm món. 1 dĩa mực hấp và 1 dĩa tôm nướng nhé. Lấy thêm vài chai bia nữa, ra món nhanh nhanh nhé<p>
 Dạ vâng, anh chờ em một lát ạ. Anh có cần thêm rau không ạ
