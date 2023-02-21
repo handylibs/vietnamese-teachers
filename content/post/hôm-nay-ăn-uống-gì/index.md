@@ -142,7 +142,7 @@ Lấy cho anh 1 thùng bia Saigon nhé, bia lạnh nhé
 
 ## <h5 style="color:brown;">2. Hải sản</h5>
 
-
+![](muc-trung-hap-gung-1.jpg)
 
 <p> ✧ Cho anh gọi thêm món. 1 dĩa mực hấp và 1 dĩa tôm nướng nhé. Lấy thêm vài chai bia nữa, ra món nhanh nhanh nhé<p>
 Dạ vâng, anh chờ em một lát ạ. Anh có cần thêm rau không ạ
