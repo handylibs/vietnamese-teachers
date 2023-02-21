@@ -102,7 +102,7 @@ Ngay ngã tư, quán tên COFFEE ĐẬM
 <p> ✧ Em ơi, cho anh 1 ly cà phê trứng nhé<p>
 Dạ vâng, anh thanh toán bằng tiền mặt hay thẻ ạ
 <p> ✧ Thẻ nhé, anh gửi. <p>
-Dạ cảm ơm anh, em gửi anh số gọi món, khi thẻ này rung thì anh đến quầy lấy món giúp em
+Dạ cảm ơm anh, em gửi anh thẻ gọi món, khi thẻ này rung thì anh đến quầy lấy món giúp em
 <p> ✧ Ừ, anh biết rồi. Cảm ơn em!<p>
 
 ## **<h5 style="color:gold;">2. Nước dừa</h5>**
