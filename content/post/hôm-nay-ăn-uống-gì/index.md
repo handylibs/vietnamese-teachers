@@ -129,7 +129,7 @@ Em có xúc xích chiên, bánh tráng trộn, ốc hút và bánh mì thịt �
 Dạ vâng.
 
 ## 
-**<h5 style="color:teal;">III. Nhậu gì?</h5>**
+<h5 style="color:teal;">III. Nhậu gì?</h5>
 
 ### **<h5 style="color:orange;">1. Lẩu hải sản</h5>**
 
