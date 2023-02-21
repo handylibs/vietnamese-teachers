@@ -1,5 +1,5 @@
 ---
-title: HÔM NAY ĂN UỐNG GÌ?
+title: 10 CONVERSATIONS - HÔM NAY ĂN UỐNG GÌ?
 date: 2023-02-21T06:27:22.524Z
 summary: ""
 draft: false
@@ -10,7 +10,7 @@ image:
   preview_only: false
   alt_text: ""
 ---
-###### HÔM NAY ĂN UỐNG GÌ?
+###### 10 CONVERSATIONS - HÔM NAY ĂN UỐNG GÌ?
 
 ##### **<h5 style="color:chocolate;">** I. ĂN GÌ?
 
@@ -144,11 +144,6 @@ Dạ em gửi anh bill ạ, anh kiểm tra giúp em đúng món chưa ạ
 <p> ✧ Đúng rồi nhé, anh gửi tiền<p>
 Dạ em cảm ơn ạ!
 
-
-
-
-
 **Nhắn tin cho cô nếu bạn có bất cứ câu hỏi nào!**
-
 
 **LINE: hoangthigam**
