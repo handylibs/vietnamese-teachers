@@ -1,12 +1,14 @@
 ---
 title: HÔM NAY ĂN UỐNG GÌ?
 date: 2023-02-21T06:27:22.524Z
+summary: ""
 draft: false
 featured: false
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
+  alt_text: ""
 ---
 ###### HÔM NAY ĂN UỐNG GÌ?
 
@@ -22,12 +24,14 @@ image:
 
 ![](thanh-pham.jpg)
 
-##### <p> ✧ Chị ơi, cho em 1 phở gà không hành (spring onion) và 1 phở bò đầy đủ</p>
+#### **<p> ✧ Chị ơi, cho em 1 phở gà không hành (spring onion) và 1 phở bò đầy đủ</p>**
 
-##### Chờ một lát nhé, vào bàn ngồi đi
+#### **Chờ một lát nhé, vào bàn ngồi đi**
 
-#####  <p> ✧Dạ. Chị bán phở mấy năm rồi</p>
+#### **<p> ✧Dạ. Chị bán phở mấy năm rồi</p>**
+
 15 năm rồi. Chị gửi 2 bát phở nhé
+
 <p> ✧ Dạ, cảm ơn chị nhiều. Chị ơi, ngon quá. Em gửi tiền</p>
  Của em tổng là 120.000 đồng
 
@@ -36,3 +40,14 @@ image:
 *Bánh xèo hải sản, bánh xèo tôm thịt* 
 
 ![](banh-xeo-da-nang-3_1629075838.jpg)
+
+<p> ✧ Mời vào, em ăn bánh xèo gì?<p> 
+Cho em 1 bánh xèo hải sản và 3 cây nem lụi
+<p> ✧ Em có ăn được rau không?<p> 
+Dạ được, nhiều rau giúp em ạ
+<p> ✧ Chị gửi thức ăn nhé!<p> 
+<p> ✧ Có 1 cây nem lụi em trả lại phải không? <p> 
+Dạ, em không ăn hết, nhiều quá. Trả lại được không chị?
+<p> ✧ Được em, của em 1 dĩa và 2 cây, tổng 90.000 đồng. <p> 
+Cảm ơn chị. 
+<p> ✧ Lần sau lại ghé tiếp nhé<p>
