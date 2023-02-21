@@ -87,7 +87,7 @@ Vâng, vậy thì lần sau con sẽ sang ăn sáng nữa. Quán cô rất gần
 <p> ✧ Chào con, mời vào<p>
 Cho con 2 phần gỏi cuốn tôm thịt và 1 phần gỏi cuốn trứng tôm
 <p> ✧ Nước chấm cay không con ?<p>
-Dạ cay cô ạ. nhiều ớt giúp con ạ
+Dạ cay cô ạ, nhiều ớt giúp con ạ
 
 # **<h5 style="color:teal;"> II. UỐNG GÌ?</h5>**
 
