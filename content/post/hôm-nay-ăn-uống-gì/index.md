@@ -20,7 +20,7 @@ image:
 
 ## **<h5 style="color:blaclk;">1. Phở</h5>**
 
-### *Phở bò, phở gà,...*
+***Phở bò, phở gà,...***
 
 ![](thanh-pham.jpg)
 
@@ -37,7 +37,7 @@ Chờ một lát nhé, vào bàn ngồi đi
 
 ## **<h5 style="color:lime;">2. Bánh xèo + Nem lụi</h5>**
 
-### *Bánh xèo hải sản, bánh xèo tôm thịt* 
+***Bánh xèo hải sản, bánh xèo tôm thịt*** 
 
 ![](banh-xeo-da-nang-3_1629075838.jpg)
 
@@ -54,7 +54,7 @@ Cảm ơn chị.
 
 ## **<h5 style="color:orange;"> 3. Bánh mì</h5>**
 
-### *Bánh mì thập cẩm, bánh mì thịt nướng, bánh mì trứng, bánh mì sữa*
+***Bánh mì thập cẩm, bánh mì thịt nướng, bánh mì trứng, bánh mì sữa,...***
 
 ![](huong-dan-3-cach-lam-banh-mi-bo-thom-ngon-de-lam-cho-bua-sang-du-chat-202201041019538628.jpg)
 
@@ -94,7 +94,7 @@ Dạ cay cô ạ. nhiều ớt giúp con ạ
 
 ## **<h5 style="color:brown;"> 1. Cà phê</h5>**
 
-## 
+
 ***Cà phê sữa đá, cà phê dừa, cà phê muối, cà phê trứng, cà phê đen...***
 
 ![](cach-lam-ca-phe-nuoc-cot-dua-2-.jpg)
