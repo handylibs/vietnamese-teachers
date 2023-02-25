@@ -20,7 +20,7 @@ Quán cóc ở Sài Gòn**
 
 (2)Người Sài Gòn có **cái thú** uống cà phê buổi sáng. Nó giống như cái thú uống trà (chè) của người miền Bắc. Buổi sáng, bên cạnh ly cà phê, người ta **chuyện trò** với nhau. Có người đi một mình, vừa thưởng thức cà phê vừa đọc báo. Có người thì vừa uống cà phê vừa **ngắm nhìn** dòng người qua lại. 
 
-(3)**Quán cóc** không chỉ phục vụ cho giới bình dân hay người lao động. Đối với nhiều người, chuyện tiền bạc không quan trọng mà cái chính là **thoả mãn** được ý thích của mình. Họ đến quán cóc vì muốn được gặp bạn bè để tán gẫu, được đọc báo trong một không gian thoáng đãng và cũng được dễ dàng ngắm nhìn **sự chuyển động** của thành phố. Quán cóc không **phân biệt** sang hèn, giàu nghèo, và thường đông khách, dù không phải quán cóc nào cà phê cũng ngon. 
+(3)**Quán cóc** không chỉ phục vụ cho giới bình dân hay người lao động. Đối với nhiều người, chuyện tiền bạc không quan trọng mà cái chính là **thoả mãn** được ý thích của mình. Họ đến quán cóc vì muốn được gặp bạn bè để **tán gẫu**, được đọc báo trong một **không gian thoáng đãng** và cũng được dễ dàng ngắm nhìn **sự chuyển động** của thành phố. Quán cóc không **phân biệt** sang hèn, giàu nghèo, và thường đông khách, dù không phải quán cóc nào cà phê cũng ngon. 
 
 (4)Nói về quán cóc ở Sài Gòn chẳng biết đến khi nào mới hết. Dường như quán cóc đã trở thành một **nét văn hóa rất riêng** của Sài Gòn.
 
