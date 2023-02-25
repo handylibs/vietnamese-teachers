@@ -13,10 +13,13 @@ image:
 
 ***READING TEST***
 
-**<h5 style="color:brown;"> TỔNG HỢP ĐỀ THI</h5>
-Quán cóc ở Sài Gòn**
+**<h5 style="color:brown;"> TỔNG HỢP ĐỀ THI</h5>**
 
 ![](qgm1479526725.jpg)
+
+
+
+**Q﻿UÁN CÓC Ở SÀI GÒN**
 
 (1)Trên đất Sài Gòn có **hàng trăm, hàng ngàn** quán cà phê cóc. **Hầu như** ở bất cứ một góc phố, một **con hẻm** nào cũng có thể nhìn thấy một **chiếc xe đẩy** với mấy cái ghế nhựa, đôi khi chỉ là một cái giỏ đựng vài **phin cà phê** và một bình nước sôi, thế là thành một **điểm hẹn** cho những người thích cà phê sáng. 
 
