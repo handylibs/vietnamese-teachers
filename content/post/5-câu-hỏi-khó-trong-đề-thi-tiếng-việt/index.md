@@ -44,7 +44,7 @@ Quán cóc ở Sài Gòn**
 (c)Chuyện tiền bạc không quan trọng vì cà phê ở đấy rất rẻ. </p>
 (d)Khách đến quán cóc không phải vì giá cà phê ở đấy rẻ. </p>
 
-<h5 style="color:Gray;">Câu 4. Cụm từ “tán gẫu” ở đoạn (3) có nghĩa là ...</h5>
+<h5 style="color:LIME;">Câu 4. Cụm từ “tán gẫu” ở đoạn (3) có nghĩa là ...</h5>
 (a)Nói chuyện với mục đích làm ăn, kinh doanh</p>
 (b)Nói chuyện cho vui, không có mục đích cụ thể. </p>
 (c)Nói chuyện thời sự, chính trị để tăng hiểu biết. </p>
