@@ -71,7 +71,7 @@ Quán cóc ở Sài Gòn**
 (c)Cái chủ yếu</p>
 (d)Cái chính thức</p>
 
-
+![](cafe-coc-2.jpg)
 
 <h5 style="color:DARKBLUE;">Câu 8. Câu “Nói về quán cóc ở Sài Gòn chẳng biết đến khi nào mới hết” ở đoạn (4) có nghĩa là...</h5>
 (a)Quá nhiều quán cóc nên chẳng thể biết hết tên của chúng. </p>
@@ -90,6 +90,8 @@ Quán cóc ở Sài Gòn**
 (b)Người Sài Gòn rất thích nói chuyện với bạn bè khi uống cà phê. </p>
 (c)Cà phê cóc là một nét văn hoá độc đáo của người Sài Gòn.</p>
 (d)Cà phê cóc là một loại cà phê ngon và độc đáo ở Sài Gòn.</p>
+
+![](hsz1421658691.jpg)
 
 **ĐÁP ÁN
 1 - C; 2 - A; 3 - D; 4 - B; 5 - D; 6 - A; 7 - C; 8 - B; 9 - A; 10 - C**
