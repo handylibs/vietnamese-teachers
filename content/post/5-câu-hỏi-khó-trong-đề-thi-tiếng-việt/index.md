@@ -1,6 +1,6 @@
 ---
-title: "5 CÂU HỎI KHÓ TRONG ĐỀ THI TIẾNG VIỆT "
-subtitle: 5 HARD QUESTIONS IN VIETNAMESE EXAM
+title: "10 CÂU HỎI KHÓ TRONG ĐỀ THI TIẾNG VIỆT "
+subtitle: 10 HARD QUESTIONS IN VIETNAMESE EXAM
 date: 2023-02-25T03:03:56.000Z
 draft: false
 featured: false
@@ -9,7 +9,9 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-***<h5 style="color:red;">5 HARD QUESTIONS IN VIETNAMESE EXAM</h5>***
+***<h5 style="color:red;">10 HARD QUESTIONS IN VIETNAMESE EXAM</h5>***
+
+***READING TEST***
 
 **<h5 style="color:brown;"> TỔNG HỢP ĐỀ THI</h5>
 Quán cóc ở Sài Gòn**
