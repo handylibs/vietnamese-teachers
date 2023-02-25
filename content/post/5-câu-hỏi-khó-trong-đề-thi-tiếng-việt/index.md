@@ -15,6 +15,8 @@ image:
 **<h5 style="color:brown;"> TỔNG HỢP ĐỀ THI</h5>
 Quán cóc ở Sài Gòn**
 
+![](qgm1479526725.jpg)
+
 (1)Trên đất Sài Gòn có **hàng trăm, hàng ngàn** quán cà phê cóc. **Hầu như** ở bất cứ một góc phố, một **con hẻm** nào cũng có thể nhìn thấy một **chiếc xe đẩy** với mấy cái ghế nhựa, đôi khi chỉ là một cái giỏ đựng vài **phin cà phê** và một bình nước sôi, thế là thành một **điểm hẹn** cho những người thích cà phê sáng. 
 
 (2)Người Sài Gòn có **cái thú** uống cà phê buổi sáng. Nó giống như cái thú uống trà (chè) của người miền Bắc. Buổi sáng, bên cạnh ly cà phê, người ta **chuyện trò** với nhau. Có người đi một mình, vừa thưởng thức cà phê vừa đọc báo. Có người thì vừa uống cà phê vừa **ngắm nhìn** dòng người qua lại. 
@@ -22,6 +24,8 @@ Quán cóc ở Sài Gòn**
 (3)**Quán cóc** không chỉ phục vụ cho giới bình dân hay người lao động. Đối với nhiều người, chuyện tiền bạc không quan trọng mà cái chính là **thoả mãn** được ý thích của mình. Họ đến quán cóc vì muốn được gặp bạn bè để tán gẫu, được đọc báo trong một không gian thoáng đãng và cũng được dễ dàng ngắm nhìn **sự chuyển động** của thành phố. Quán cóc không **phân biệt** sang hèn, giàu nghèo, và thường đông khách, dù không phải quán cóc nào cà phê cũng ngon. 
 
 (4)Nói về quán cóc ở Sài Gòn chẳng biết đến khi nào mới hết. Dường như quán cóc đã trở thành một **nét văn hóa rất riêng** của Sài Gòn.
+
+![](kinh-nghiem-mo-quan-ca-phe-binh-dan.jpg)
 
 <h5 style="color:darkgreen;"> Câu 1. “Quán cà phê cóc” ở đoạn (1) có nghĩa là </h5>
 <p>(a)Quán cà phê có bán cả trái cây như cóc, ổi, ... </p>
@@ -47,6 +51,8 @@ Quán cóc ở Sài Gòn**
 (c)Nói chuyện thời sự, chính trị để tăng hiểu biết. </p>
 (d)Nói chuyện làm ăn với bạn bè, đồng nghiệp. </p>
 
+![](cafe-thoi-bao-cap_1024x1024.jpg)
+
 <h5 style="color:Green;">Câu 5. Từ câu cuối cùng của đoạn (3) “quán cóc... thường đông khách dù không phải quán cóc nào cà phê cũng ngon” có thể suy ra là...</h5>
 (a)Người ta đến quán cóc chỉ để nói chuyện chứ không phải để uống cà phê. </p>
 (b)Người ta đến quán cà phê chỉ để ngắm cảnh mà thôi.</p>
@@ -64,6 +70,8 @@ Quán cóc ở Sài Gòn**
 (b)Cái thứ yếu</p>
 (c)Cái chủ yếu</p>
 (d)Cái chính thức</p>
+
+
 
 <h5 style="color:DARKBLUE;">Câu 8. Câu “Nói về quán cóc ở Sài Gòn chẳng biết đến khi nào mới hết” ở đoạn (4) có nghĩa là...</h5>
 (a)Quá nhiều quán cóc nên chẳng thể biết hết tên của chúng. </p>
