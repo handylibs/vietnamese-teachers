@@ -9,8 +9,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-**<h5 style="color:lime;"> 5 CÂU HỎI KHÓ TRONG ĐỀ THI TIẾNG VIỆT </h5>
-*<h5 style="color:red;">5 HARD QUESTIONS IN VIETNAMESE EXAM</h5>***
+***<h5 style="color:red;">5 HARD QUESTIONS IN VIETNAMESE EXAM</h5>***
 
 **<h5 style="color:brown;"> TỔNG HỢP ĐỀ THI</h5>
 Quán cóc ở Sài Gòn**
