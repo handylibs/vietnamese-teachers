@@ -11,7 +11,7 @@ image:
 ---
 # **<h5 style="color:orange;">** ĐI CÔNG TÁC
 
-![Business](di-cong-tac-vao-chu-nhat-co-duoc-tinh-gio-lam-them_1002161647.jpg)
+![Business](3.jpg)
 
 ## **<h5 style="color:chocolate;"> 1.Tại sân bay</h5>** <!--StartFragment-->
 
