@@ -1,6 +1,6 @@
 ---
 title: 6 BUSINESS TRIP CONVERSATIONS
-subtitle: ĐI CÔNG TÁC
+subtitle: ""
 date: 2023-02-27T02:30:26.345Z
 draft: false
 featured: false
@@ -9,6 +9,8 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+# **<h5 style="color:orange;">** ĐI CÔNG TÁC
+
 ![](di-cong-tac-vao-chu-nhat-co-duoc-tinh-gio-lam-them_1002161647.jpg)
 
 ## **<h5 style="color:chocolate;"> 1.Tại sân bay</h5>** <!--StartFragment-->
