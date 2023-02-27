@@ -19,7 +19,7 @@ image:
 
 <!--EndFragment-->
 
-![](thu-tuc-check-in-tai-san-bay-3.jpg)
+![](2.jpg)
 
 <p> ✨ Xin chào, anh cho xem hộ chiếu và visa</p>
 Vâng, tôi gửi hộ chiếu</p>
@@ -40,7 +40,7 @@ Cảm ơn anh</p>
 
 <!--EndFragment-->
 
-![](bang-chuyen-hanh-ly-seattle-international-airport.jpg)
+![](1.jpg)
 
 <p> ✔️ Chào chị, tôi bị lạc hành lý. </p>
 Dạ anh cho xin mã chuyên bay và tên, chúng tôi sẽ hỗ trợ anh</p>
@@ -54,7 +54,7 @@ Chào anh, chúng tôi đã tìm thấy hành lý của anh rồi. Mời anh san
 
 ![🚕](data:image/png;base64,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)
 
-![](sbay-2-16060122787281811134264.jpg)
+![](4.jpg)
 
 <!--EndFragment-->
 
@@ -74,7 +74,7 @@ Tôi gửi tiền, anh lấy giúp hành lý sau cốp xe giúp tôi.</p>
 
 <!--EndFragment-->
 
-![](duoc-va-mat-khi-lam-viec-tai-cong-ty-nuoc-ngoai-1.jpg)
+![](6.jpg)
 
 <p> 🟢 Xin chào, tôi là Hsung. Nhân viên kinh doanh và sẽ làm việc tại văn phòng của chúng ta từ thứ 2 tuần này đến chủ nhật. Rất mong mọi người hỗ trợ</p>
 Chào mừng anh đến. Nếu anh cần hỗ trợ gì thì cứ nói với chúng tôi. </p>
