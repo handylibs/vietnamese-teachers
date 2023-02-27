@@ -29,11 +29,11 @@ image:
 
 ![](kinh-nghiem-mo-quan-ca-phe-binh-dan.jpg)
 
-## **<h5 style="color:darkgreen;"> Câu 1. “Quán cà phê cóc” ở đoạn (1) có nghĩa là</h5>**
+# **<h5 style="color:darkgreen;"> Câu 1. “Quán cà phê cóc” ở đoạn (1) có nghĩa là</h5>**
 <p>(a)Quán cà phê có bán cả trái cây như cóc, ổi, ... </p>
-(b)Quán cà phê có bán kèm món thịt cóc, ếch. </p>
-(c)Quán cà phê nhỏ, thường bán trên vỉa hè, góc phố. </p>
-(d)Quán bán cà phê phin, không phải cà phê pha sẵn. </p>
+<p>(b)Quán cà phê có bán kèm món thịt cóc, ếch. </p>
+<p>(c)Quán cà phê nhỏ, thường bán trên vỉa hè, góc phố. </p>
+<p>(d)Quán bán cà phê phin, không phải cà phê pha sẵn. </p>
 
 ## **<h5 style="color:red;">Câu 2. Ý chính của đoạn (2) là gì? </h5>**
 (a)Cái thú uống cà phê sáng của người Sài Gòn. </p>
