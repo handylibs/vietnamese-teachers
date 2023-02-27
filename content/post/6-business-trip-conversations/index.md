@@ -58,7 +58,7 @@ Chào anh, chúng tôi đã tìm thấy hành lý của anh rồi. Mời anh san
 
 <!--EndFragment-->
 
-<p> ✴️ Chào anh, anh cần taxi không?</p>
+<p> ✴️ Chào anh, anh có cần taxi không?</p>
 Có, tôi chỉ có 1 mình</p>
 <p> ✴️ Vâng, mời anh lên xe này</p>
 Anh muốn đi đâu ạ?</p>
