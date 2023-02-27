@@ -11,7 +11,7 @@ image:
 ---
 ![](di-cong-tac-vao-chu-nhat-co-duoc-tinh-gio-lam-them_1002161647.jpg)
 
-<h5 style="color:chocolate;"> 1.Tại sân bay</h5> <!--StartFragment-->
+## **<h5 style="color:chocolate;"> 1.Tại sân bay</h5>** <!--StartFragment-->
 
 ![🛫](data:image/png;base64,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)
 
@@ -30,7 +30,7 @@ Dạ. </p>
 <p> ✨ Được rồi, tôi gửi lại hộ chiếu</p>
 Cảm ơn anh</p>
 
-<h5 style="color:green;">2.Tại khu vực hành lý</h5>
+## **<h5 style="color:green;">2.Tại khu vực hành lý</h5>**
 
 <!--StartFragment-->
 
@@ -48,7 +48,7 @@ Cảm ơn thông tin của anh, vui lòng chờ một lát</p>
 Chào anh, chúng tôi đã tìm thấy hành lý của anh rồi. Mời anh sang bên này nhận hành lý</p>
 <p> ✔️ Vâng, cảm ơn các chị nhiều</p>
 
-<h5 style="color:RED;"> 3.Tại khu vực chờ taxi</h5> <!--StartFragment-->
+## **<h5 style="color:RED;"> 3.Tại khu vực chờ taxi</h5>** <!--StartFragment-->
 
 ![🚕](data:image/png;base64,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)
 
@@ -64,7 +64,7 @@ Cho tôi đi công ty ABC tại quận 4</p>
 <p> ✴️ Vâng. Của anh là 255.000 đồng ạ. </p>
 Tôi gửi tiền, anh lấy giúp hành lý sau cốp xe giúp tôi.</p>
 
-<h5 style="color:ORANGE;">4.Tại công ty</h5>
+## **<h5 style="color:ORANGE;">4.Tại công ty</h5>**
 
 <!--StartFragment-->
 
@@ -81,7 +81,7 @@ Xin giới thiệu với anh, đây là bộ phận kế toán, đây là bộ p
 Đúng rồi, chiều nay lúc 2 giờ. Anh hãy tham gia tại phòng họp B nhé</p>
 <p> 🟢 Vâng. Hẹn gặp mọi người chiều nay</p>
 
-<h5 style="color:BLUE;">5.Trong cuộc họp</h5>
+## **<h5 style="color:BLUE;">5.Trong cuộc họp</h5>**
 
 <!--StartFragment-->
 
@@ -98,7 +98,7 @@ Anh có ý kiến gì cho việc kinh doanh quý II không?</p>
 <p> 🧷 Theo tôi, chúng ta sẽ đẩy mạnh bán sản phẩm C cho khách hàng tại các khu công nghiệp</p>
 Tôi đồng ý với ý kiến của anh. Mời các bộ phận khác cho ý kiến.</p>
 
-<h5 style="color:Brown;"> 6.Tại buổi ăn cơm công ty</h5>
+## **<h5 style="color:Brown;"> 6.Tại buổi ăn cơm công ty</h5>**
 
 <!--StartFragment-->
 
@@ -123,3 +123,7 @@ Sau khi tan làm sẽ đi luôn. Có thể đi bộ. </p>
 ![🍻](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAABCFBMVEX////Yzr3p59Xe1tbv5+euUgXv7+/39+/Ozs7Gxr3Qxr29tbXPihC6sKvn3t6ZlJLxwh//8oyJf3SlTQCxopPGvKitraW9dwrXlQ2lnJq1YwXeqRDe1t7Wzs6PjIiRQgDnrRStra2FPAClpaXp2M2cSgD/9/etXQDKgA3v5961bQ7/73vSt6HAZAf/62Hn5+/DnHV8cGhrWkuZjHvFgyq4byzGewj62U/xxkPGrZCtVRvFi0mnkXXJcwr37+7e2s64kWT37t3Ymx3v2KyYWiL412/pv2iLTBD51jKneFOllIzstjFWRj7KvbWcYy3VqmSlQgC9pZTkwn/33nvWljvepULWrRD/99bTfXezAAAABnRFWHRUaXRsZQCo7tInAAAACHRFWHRDb21tZW50APbMlr8AAAAHdEVYdFNvdXJjZQD1/4PrAAAACHRFWHRXYXJuaW5nAMAb5ocAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAl0RVh0U29mdHdhcmUAXXD/OgAAAA50RVh0Q3JlYXRpb24gdGltZQA19w8JAAAACnRFWHRDb3B5cmlnaHQArA/MOgAAAAx0RVh0RGVzY3JpcHRpb24AEwkhIwAAAAd0RVh0QXV0aG9yAKmuzEgAAAAJcEhZcwAAFxIAABcSAWef0lIAAAg3SURBVFjD7Vhbe6LKEoVupLtBQAkXUSAixgvRqFEzMZqg0Zh7Mpnb/v//5FRDZidzO/tkf/N0vukHRQzLqlWrVldHEP6sP+tnS2qe/Racbk+09d8BJMqCpP4OoFRvCc73N88keFFsW3oDkG6JsvPNA5IoioFyrzSR7rwlaf/GHg9ePhJReYEl2luSQ5oKUWC4anUhmCYRWq0WaRFCZGKRNzKlyDYSZEXMniN8SQiLYhqyt+E0RezJpAc5EQ4j61hkiq1Zphm/DWhg3MhCKmWhnEmoKdrMssaju7ub+B/pJgM5z79FvrLcymC6CDPFWpij0eHh3Y3jwzd6wFT6C7aYZ1lxQGRfvO/di1IL/lyREMBwHHthjj0rNEeHpspIEHuxF5qG/DMcVYEfIIGipDqSJF0UdTKw05SJKdJFbWyxQFG9EGJicaQpGGNmmfFPYuJNQXhOPBIZXlrik2fdKwrXIjM1iSCfOWPz8JAqAVAHyfreOPgRyMOcj1ws2eJ6vp/Zln2viZYDdZNxBnSngRCoE5qmR2+MHzqGmEjqkm8Xvw2BzTRmIbiUxMXSg9TGAqGGQX3DZFpIfwAaBTTFqMvRzsgqR8qrR8TeArTd6/rLhXW9udycETWAb+TQEI3oh9SMG1uxFTHFQDVgrQDuGU0QsA3v1z1xON3Z7DQaip6bjGYqmvcDEDXNhWNrgJamTSQTSZJWX3NsiXqzN1ye7OzsvN/ZbTxRLQvVH0Wigb8HipzDu8PR2AIwhXGoVVfukrNn3oab93s70wIsALp+9hI5dKj3lSRCKQt0+IGYcaCRaY4Xlm0rKWipSwBGIjwy5aRwUijsFdqFnb3Gg67mjRuH2IpyKZ3FBl+eSh12eDgKvdixPNO0NCZiJHfllQwwkiSL05NCe2+vUGjv7O1eYsXIHqdjynIHlGP+BGaa52B2d2gajoJ1HGg3Y8sWuR66sGSEdGXa7yeFdrWd5TajeXMEBmZR5oDUEHUdY5lgTKK7kWmA9qFxic7GC4UBgLwiSEpB2tNT1+27VZ7bbmOKc2p8I1XiDNJzfOyEoeEgIhg8IuuJSqBtgWDvRkybqZQGaQA+NOx0OqdHbsKRILeUZQKgHqKRnCEqIHZMYzP0BZNTNF3oCMTXhKw9K9UlJDLRtq3FebHYKR6d9qvV9g6E1GOZENVYphnZqpdKKld/EGqth93N5no5FMXpGVTrrJWOWZOlIgOY4fYYkIoQFITEcxv6Dg8kZoTx+hHPQYPcCQyGLne53vZOhj1l3ZLA0jRoVuseXHF4UX53WylWip2jflJtv99rXCPubr6nCyovmh6qhGaKkELaawAQF9zOycnDfKisVoplOeDR1uJ4v3xxW69UICa3X+V0b3RVFYhKBSl7PAgViWWk6x5a5EBtrjzAmm4/zMaarZkjZX51UD44rtcAqXPqTqvAdgMrIeGqjLLqMZPK+XZHI7Rp7HGcQvWkfwI484vtfDMam9eWcl46KJffleq1YuIeuR8mIO7dWTCOI4nQXEXqOHjuY1VtXnKgdrVa7Vf70/5k+3E7n+5e7u6t7VrpYL98cFuvV9ykM3mc9Au8SzQVET3KTVsNcfBsCFSBzAocqO+envYnny72t5NOkrSnaFgvXe2X968gJM7StJ+0oW5dcEwaP88sqolzYZHIn2VA1SrAuJ3J5PPH8vYTXLbn/hKAstxqwHeH080FoAjE977OPswMcmHJsTTkQO1q4p4edYqd8+1+mUvHbQ/ZpFbnJB2USrVasdi+hHQht6EgeSr528sYzuYgP5avG3vvIaD+aQeUV7m9KO9zoH5VsdxaqfQOSDoGoErRvWxswE92r6FALz4dapKHMq67Dw1uNn33qNipVGoZEJQ7ScQbt5jlts/rBrlBv3ElPTQj9rKpOQbipks82r3kFCVVACpWavVcgrVOMqc3SRFCykgq1bi43YQ707Wsjl5GKD1kCmwooGslpyjHqdV5KqV6pZP0VHPiVuql/Eb9/HwymU5P5sseEsAcX20dpq+F+sDQh1xF1aTf6fCASnkmFdftxqNlUskF8O74+NPn+fyxh3xMdbDfV8YfmA72woiSDZSiABrKcY4BCLitJHM9Chcu5AZ3yh8/bHsfRHBendJgIBE5erU7RiMNa6osZSpK+jlDWSJXpVqx+hjQeOwefTq++Fgur9FZV5ZhoxpQZts9W/Vez5nxyJFkQXxNEQCVc6CkF8k0HE4+bdforxYMPBCKL8vibDibOc63WxoxRjAIgIfw/jg9KlYq9Yyig6t65ShpOlAQul6vBF5qX4s0ze71FFE1DPb93EYc0yHLjGtQUQdqVvqb60nAYH9AMMoNEBgYtpbL4Uxzooiinw1rsalzXVeryREXY1aii9svXyrujPkCNjAZYOoPYKqZ9RwvVvGvRkcaSw9QtHa1f9T5yvVF6ct50UUq37EoDFUwXlBF1VSq/3rKJrCDzHj1E3dSLNaeuYbG6kwG4IHINBgvkQah/PdRncFoIYu94Xw+mU7mn29vjzOKShV3qHNHjg5NTVUp+qfTDOFjsxRAWaXm+sPj4+P2Yj9z1orbA4r4XsXY/3JqkEPumZRSX4INFibz9XoNKj7+XHSb3lvOVIIHc5c1g0FGkgZ+QH1ZaP2FILbJHBtvOiugOLK1p+XQThEkwRjlhk5aq/WKhm88BxHqxI6j3ffsJYybfG5Huj4gAg7Jm0+fBNooUjXLGi6fdJk3FZYINojw75bMIkNTGRwWZjPWJeh1e785tAGlKjSnbT+p9F9H9HJYY1oEhx//NxzZCYy76M//ZP5/138ACP4OYOstYH4AAAAASUVORK5CYII=)
 
 <!--EndFragment-->
+
+*Nhắn tin cho cô nếu bạn có bất cứ câu hỏi nào!*
+
+LINE: **hoangthigam**
