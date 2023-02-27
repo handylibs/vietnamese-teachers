@@ -29,65 +29,65 @@ image:
 
 ![](kinh-nghiem-mo-quan-ca-phe-binh-dan.jpg)
 
-# **<h5 style="color:darkgreen;"> Câu 1. “Quán cà phê cóc” ở đoạn (1) có nghĩa là</h5>**
+**<h5 style="color:darkgreen;"> Câu 1. “Quán cà phê cóc” ở đoạn (1) có nghĩa là</h5>**
 <p>(a)Quán cà phê có bán cả trái cây như cóc, ổi, ... </p>
 <p>(b)Quán cà phê có bán kèm món thịt cóc, ếch. </p>
 <p>(c)Quán cà phê nhỏ, thường bán trên vỉa hè, góc phố. </p>
 <p>(d)Quán bán cà phê phin, không phải cà phê pha sẵn. </p>
 
-## **<h5 style="color:red;">Câu 2. Ý chính của đoạn (2) là gì? </h5>**
+**<h5 style="color:red;">Câu 2. Ý chính của đoạn (2) là gì? </h5>**
 (a)Cái thú uống cà phê sáng của người Sài Gòn. </p>
 (b)Phân biệt thú uống cà phê của người Sài Gòn với thú uống trà của người miền Bắc. </p>
 (c)Cách thức pha cà phê của người Sài Gòn.</p>
 (d)Cách người Sài Gòn uống cà phê. </p>
 
-## **<h5 style="color:purple;">Câu 3. Cụm từ “Đối với nhiều người, chuyện tiền bạc không quan trọng” ở đoạn (3) có thể hiểu là ...</h5>**
+**<h5 style="color:purple;">Câu 3. Cụm từ “Đối với nhiều người, chuyện tiền bạc không quan trọng” ở đoạn (3) có thể hiểu là ...</h5>**
 (a)Đối với nhiều người, có nhiều chuyện quan trọng hơn.</p>
 (b)Khách đến uống cà phê có nhiều tiền nên giá cả không quan trọng. </p>
 (c)Chuyện tiền bạc không quan trọng vì cà phê ở đấy rất rẻ. </p>
 (d)Khách đến quán cóc không phải vì giá cà phê ở đấy rẻ. </p>
 
-## **<h5 style="color:LIME;">Câu 4. Cụm từ “tán gẫu” ở đoạn (3) có nghĩa là ...</h5>**
+**<h5 style="color:LIME;">Câu 4. Cụm từ “tán gẫu” ở đoạn (3) có nghĩa là ...</h5>**
 (a)Nói chuyện với mục đích làm ăn, kinh doanh</p>
 (b)Nói chuyện cho vui, không có mục đích cụ thể. </p>
 (c)Nói chuyện thời sự, chính trị để tăng hiểu biết. </p>
 (d)Nói chuyện làm ăn với bạn bè, đồng nghiệp. </p>
 
-![](cafe-thoi-bao-cap_1024x1024.jpg)
 
-## **<h5 style="color:Green;">Câu 5. Từ câu cuối cùng của đoạn (3) “quán cóc... thường đông khách dù không phải quán cóc nào cà phê cũng ngon” có thể suy ra là...</h5>**
+
+**<h5 style="color:Green;">Câu 5. Từ câu cuối cùng của đoạn (3) “quán cóc... thường đông khách dù không phải quán cóc nào cà phê cũng ngon” có thể suy ra là...</h5>**
 (a)Người ta đến quán cóc chỉ để nói chuyện chứ không phải để uống cà phê. </p>
 (b)Người ta đến quán cà phê chỉ để ngắm cảnh mà thôi.</p>
 (c)Người ta đến quán cóc chỉ để thăm bạn bè mà thôi. </p>
 (d)Người ta đến quán cóc không chỉ để uống cà phê.</p>
 
-## **<h5 style="color:Blue;">Câu 6. Từ “họ” trong đoạn (3) chỉ ai? </h5>**
+**<h5 style="color:Blue;">Câu 6. Từ “họ” trong đoạn (3) chỉ ai? </h5>**
 (a)Người thích uống cà phê cóc. </p>
 (b)Người lao động</p>
 (c)Người bình dân</p>
 (d)Người lao động và người bình dân</p>
 
-## **<h5 style="color:orange;">Câu 7. Cụm từ “cái chính” ở đoạn (3) có thể thay bằng... </h5>**
+**<h5 style="color:orange;">Câu 7. Cụm từ “cái chính” ở đoạn (3) có thể thay bằng... </h5>**
 (a)Cái cần thiết </p>
 (b)Cái thứ yếu</p>
 (c)Cái chủ yếu</p>
 (d)Cái chính thức</p>
 
-![](cafe-coc-2.jpg)
 
-## **<h5 style="color:DARKBLUE;">Câu 8. Câu “Nói về quán cóc ở Sài Gòn chẳng biết đến khi nào mới hết” ở đoạn (4) có nghĩa là...</h5>**
+
+**<h5 style="color:DARKBLUE;">Câu 8. Câu “Nói về quán cóc ở Sài Gòn chẳng biết đến khi nào mới hết” ở đoạn (4) có nghĩa là...</h5>**
 (a)Quá nhiều quán cóc nên chẳng thể biết hết tên của chúng. </p>
 (b)Chuyện về quán cóc rất nhiều, không thể nào kể cho hết được. </p>
 (c)Quán cóc có đông người ra vào, không thể nào nói hết về họ. </p>
 (d)Cà phê cóc là một nét văn hoá rất độc đáo của người Sài Gòn. </p>
 
-## **<h5 style="color:BROWN;">Câu 9. Theo bài, quán cóc thường có “không gian thoáng đãng” vì ...</h5>**
+**<h5 style="color:BROWN;">Câu 9. Theo bài, quán cóc thường có “không gian thoáng đãng” vì ...</h5>**
 (a)Quán cà phê cóc thường nằm trên vỉa hè, góc phố. </p>
 (b)Quán cà phê cóc thường có quạt hay máy lạnh. </p>
 (c)Quán cà phê cóc thường rộng rãi hơn các quán cà phê khác. </p>
 (d)Quán cà phê cóc thường không quá đông khách </p>
 
-## **<h5 style="color:NAVY;">Câu 10. Nội dung chính của bài đọc này là gì? </h5>**
+**<h5 style="color:NAVY;">Câu 10. Nội dung chính của bài đọc này là gì? </h5>**
 (a)Người Sài Gòn chỉ thích uống cà phê theo văn hóa truyền thống. </p>
 (b)Người Sài Gòn rất thích nói chuyện với bạn bè khi uống cà phê. </p>
 (c)Cà phê cóc là một nét văn hoá độc đáo của người Sài Gòn.</p>
