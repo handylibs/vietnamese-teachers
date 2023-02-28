@@ -13,11 +13,9 @@ image:
 
 ![Business](3.jpg)
 
-## **<h5 style="color:chocolate;"> 1. Tại sân bay</h5>** <!--StartFragment-->
+## **<h5 style="color:chocolate;"> 1. Tại sân bay</h5>** 
 
-![🛫]()
 
-<!--EndFragment-->
 
 ![](2.jpg)
 
@@ -34,11 +32,9 @@ Cảm ơn anh</p>
 
 ## **<h5 style="color:green;">2. Tại khu vực hành lý</h5>**
 
-<!--StartFragment-->
 
-![🧳]()
 
-<!--EndFragment-->
+
 
 ![](1.jpg)
 
@@ -50,13 +46,11 @@ Cảm ơn thông tin của anh, vui lòng chờ một lát</p>
 Chào anh, chúng tôi đã tìm thấy hành lý của anh rồi. Mời anh sang bên này nhận hành lý</p>
 <p> ✔️ Vâng, cảm ơn các chị nhiều</p>
 
-## **<h5 style="color:RED;"> 3. Tại khu vực chờ taxi</h5>** <!--StartFragment-->
-
-![🚕]()
+## **<h5 style="color:RED;"> 3. Tại khu vực chờ taxi</h5>** 
 
 ![](4.jpg)
 
-<!--EndFragment-->
+
 
 <p> ✴️ Chào anh, anh có cần taxi không?</p>
 Có, tôi chỉ có 1 mình</p>
@@ -68,11 +62,9 @@ Tôi gửi tiền, anh lấy giúp hành lý sau cốp xe giúp tôi.</p>
 
 ## **<h5 style="color:ORANGE;">4. Tại công ty</h5>**
 
-<!--StartFragment-->
 
-![🏢]()
 
-<!--EndFragment-->
+
 
 ![](6.jpg)
 
@@ -85,11 +77,9 @@ Xin giới thiệu với anh, đây là bộ phận kế toán, đây là bộ p
 
 ## **<h5 style="color:BLUE;">5. Trong cuộc họp</h5>**
 
-<!--StartFragment-->
 
-![📈]()
 
-<!--EndFragment-->
+
 
 ![](9.jpg)
 
@@ -102,11 +92,9 @@ Tôi đồng ý với ý kiến của anh. Mời các bộ phận khác cho ý k
 
 ## **<h5 style="color:Brown;"> 6. Tại buổi ăn cơm công ty</h5>**
 
-<!--StartFragment-->
 
-![🍜]()
 
-<!--EndFragment-->
+
 
 ![](thanh-pham.jpg)
 
@@ -120,11 +108,9 @@ Tối nay anh có kế hoạch gì không?</p>
 <p> 🥗 Vậy à, mấy giờ chúng ta gặp nhau?</p>
 Sau khi tan làm sẽ đi luôn. Có thể đi bộ. </p>
 
-<!--StartFragment-->
 
-![🍻]()
 
-<!--EndFragment-->
+
 
 *Nhắn tin cho cô nếu bạn có bất cứ câu hỏi nào!*
 
