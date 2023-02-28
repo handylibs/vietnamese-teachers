@@ -91,7 +91,7 @@ Xin giới thiệu với anh, đây là bộ phận kế toán, đây là bộ p
 
 <!--EndFragment-->
 
-![](quy-dinh-ve-cuoc-hop-trong-cong-ty-co-phan.jpg)
+![](9.jpg)
 
 <p> 🧷 Chào tất cả mọi người, hôm nay chúng ta sẽ họp về chiến lược kinh doanh cho quý II</p>
 Đầu tiên, tôi là Hsung, phụ trách bộ phận kinh doanh tại USA và sẽ công tác tại Việt Nam 1 tuần. </p>
