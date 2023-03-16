@@ -12,15 +12,15 @@ image:
 
 <h5 style="color:chocolate;"> 1. BẠN BÈ</h5>
 
-<p> ✧ Chào Tâm, bạn vừa đến Việt Nam phải không?</p>
+<p> ✨  Chào Tâm, bạn vừa đến Việt Nam phải không?</p>
 Đúng rồi, mình sẽ bắt đầu học tại đây từ tuần này. Theo kế hoạch sẽ học trong 2 năm.
-<p> ✧ Chào mừng đến Việt Nam nhé. Thế bạn đã thuê trọ ở đâu chưa ?</p>
+<p> ✨  Chào mừng đến Việt Nam nhé. Thế bạn đã thuê trọ ở đâu chưa ?</p>
 Mình sẽ ở ký túc xá của trường trước, sau đó sẽ tìm phòng sau
-<p> ✧ Vậy à, như vậy cũng tốt. Ở đây cần gì thì nói với mình</p>
+<p> ✨ Vậy à, như vậy cũng tốt. Ở đây cần gì thì nói với mình</p>
 Đúng rồi, mình không biết nên làm thẻ ngân hàng như thế nào?
-<p> ✧ Không khó, bạn cầm theo hộ chiếu ra ngân hàng để làm. Ngân hàng nào cũng được</p>
+<p> ✨ Không khó, bạn cầm theo hộ chiếu ra ngân hàng để làm. Ngân hàng nào cũng được</p>
 Vậy à, chiều nay mình sẽ đi. Và làm sao để thuê xe nhỉ?
-<p> ✧ Bạn có thể thuê xe tại trường luôn</p>
+<p> ✨  Bạn có thể thuê xe tại trường luôn</p>
 
 <h5 style="color:orange;">2. TÌM HIỂU</h5>
 
@@ -38,11 +38,11 @@ Cũng tùy vào thời gian, buổi sáng tớ sẽ uống cà phê sữa đá �
 
 <h5 style="color:green;">3. HẸN HÒ</h5>
 
-<p> ✧ Tâm ơi, tối tớ qua đón cậu đi ăn tối nhé
+<p> ✔️ Tâm ơi, tối tớ qua đón cậu đi ăn tối nhé
 Ờ, tối nay chúng ta ăn cơm tấm nhé…. Thèm cơm lắm luôn ý. Lâu lâu lắm rồi chưa được ăn hạt cơm nào. 
-<p> ✧ Tuyệt đấy, tớ cũng đang thèm cơm. Thế có muốn đi tăng 2 không?
+<p> ✔️ Tuyệt đấy, tớ cũng đang thèm cơm. Thế có muốn đi tăng 2 không?
 Có chứ, trà sữa hay trà chanh
-<p> ✧ Trà chanh, tớ đang giảm cân … haha
+<p> ✔️ Trà chanh, tớ đang giảm cân … haha
 
 <h5 style="color:red;">4. KẾT HÔN</h5>
 
@@ -59,12 +59,12 @@ Tất nhiên là có, họ có dịch vụ trọn gói nên em không cần ph�
 
 <h5 style="color:blue;">5. HÔN NHÂN</h5>
 
-<p> ✧ Chúng ta phân chia công việc đi, anh Tuấn</p>
+<p> ✴️ Chúng ta phân chia công việc đi, anh Tuấn</p>
 Vậy anh cho em quyết định trước nhé
-<p> ✧ Em sẽ phụ trách nấu ăn, anh phụ trách rửa chén và giặt áo quần nhé</p>
+<p> ✴️ Em sẽ phụ trách nấu ăn, anh phụ trách rửa chén và giặt áo quần nhé</p>
 Được thôi. Mỗi tuần chúng ta sẽ cùng nhau dọn nhà 1 lần vào thứ 7 nhé. 
-<p> ✧ Dạ, à, cuối tuần em muốn đi ăn ngoài nữa.</p>
+<p> ✴️ Dạ, à, cuối tuần em muốn đi ăn ngoài nữa.</p>
 Không thành vấn đề. Hãy để anh đưa và đón em đi làm mỗi ngày, vì tiện đường.
-<p> ✧ Vâng. Anh muốn bố trí nội thất trong nhà thế nào?</p>
+<p> ✴️ Vâng. Anh muốn bố trí nội thất trong nhà thế nào?</p>
 Anh thì muốn càng đơn giản càng tốt, nên chúng ta không mua nhiều nội thất được không ?
-<p> ✧ Dạ, em cũng suy nghĩ như vậy ạ. Sẽ giúp cho cuộc sống của chúng ta đơn giản hơn nữa. </p>
+<p> ✴️ Dạ, em cũng suy nghĩ như vậy ạ. Sẽ giúp cho cuộc sống của chúng ta đơn giản hơn nữa. </p>
