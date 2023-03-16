@@ -79,8 +79,6 @@ Em đã ăn cơm chưa?
 
 <br />
 
-
-
 ##### <h5 style="color:orange;">3. Bao nhiêu tiền</h5>
 
 <p> ✧ &nbsp  Xin chào, 1 bát phở bao nhiêu tiền? </p>
@@ -95,8 +93,6 @@ Phở gà 50.000 vnd thôi, phở bò 65.000 vnd ạ.
 
 <br />
 
-
-
 ##### <h5 style="color:red;">4. Đi đường</h5>
 
 ![](left-or-right.png)
@@ -109,9 +105,9 @@ Phở gà 50.000 vnd thôi, phở bò 65.000 vnd ạ.
 
 <br/>
 
-✧   Chị ơi, đi quán cà phê BEN đi thế nào.
+✧   Chị ơi, đi quán cà phê BEN đi thế nào?
 
-Em đi thẳng khoảng 50 mét rồi sẽ phải nhé. Quán cà phê ở bên trái đường.
+Em đi thẳng khoảng 50 mét rồi rẽ phải nhé. Quán cà phê ở bên trái đường.
 
 ✧   Từ đây đến Đà Nẵng có thể đi xe buýt không?
 
