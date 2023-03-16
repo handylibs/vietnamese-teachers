@@ -28,27 +28,27 @@ Vậy à, chiều nay mình sẽ đi. Và làm sao để thuê xe nhỉ?
 
 <h5 style="color:orange;">2. TÌM HIỂU</h5>
 
-<p> ✧ Chào buổi sáng Tâm, cậu đi đâu vậy ?</p>
+<p> 💕  Chào buổi sáng Tâm, cậu đi đâu vậy ?</p>
 Mình đi quán cà phê GM để học. Còn Tuấn?
-<p> ✧ Mình cũng định đi quán cà phê để học  ^ ^</p>
+<p> 💕  Mình cũng định đi quán cà phê để học  ^ ^</p>
 Vậy chúng ta học chung đi. 
-<p> ✧ Ok lun nhé. Lên xe tớ đèo</p>
+<p> 💕  Ok lun nhé. Lên xe tớ đèo</p>
 Cảm ơn Tuấn nhé, cậu thường đi quán cà phê mấy lần một tuần ?
-<p> ✧ Thỉnh thoảng thôi vì mình cũng bận lịch học ở trường</p>
+<p> 💕  Thỉnh thoảng thôi vì mình cũng bận lịch học ở trường</p>
 Vậy, lần sau chúng ta vẫn đi học chung nhé
-<p> ✧ Vậy thì tốt quá rồi. Tâm thích đồ uống gì ở Việt Nam nhất?</p>
+<p> 💕 Vậy thì tốt quá rồi. Tâm thích đồ uống gì ở Việt Nam nhất?</p>
 Cũng tùy vào thời gian, buổi sáng tớ sẽ uống cà phê sữa đá để tỉnh táo. Còn buổi chiều uống nước dừa là chủ yếu
-<p> ✧ Tớ cũng vậy đấy  ^ ^</p>
+<p> 💕  Tớ cũng vậy đấy  ^ ^</p>
 
 ![](hen-ho-da-nang-6.jpg)
 
 <h5 style="color:green;">3. HẸN HÒ</h5>
 
-<p> ✔️ Tâm ơi, tối tớ qua đón cậu đi ăn tối nhé
+<p> 💐  Tâm ơi, tối tớ qua đón cậu đi ăn tối nhé
 Ờ, tối nay chúng ta ăn cơm tấm nhé…. Thèm cơm lắm luôn ý. Lâu lâu lắm rồi chưa được ăn hạt cơm nào. 
-<p> ✔️ Tuyệt đấy, tớ cũng đang thèm cơm. Thế có muốn đi tăng 2 không?
+<p> 💐  Tuyệt đấy, tớ cũng đang thèm cơm. Thế có muốn đi tăng 2 không?
 Có chứ, trà sữa hay trà chanh
-<p> ✔️ Trà chanh, tớ đang giảm cân … haha
+<p> 💐  Trà chanh, tớ đang giảm cân … haha
 
 ![](800-500-15711677721471583394083-crop-15711678011981018379337.webp)
 
