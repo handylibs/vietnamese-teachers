@@ -10,6 +10,8 @@ image:
 ---
 **QUAN HỆ**
 
+![](10-su-that-tan-nhan-ve-tinh-yeu-du-ban-khong-muon-cung-phai-chap-nhan-tinh-yeu1-1504712177-width600height369.jpg)
+
 <h5 style="color:chocolate;"> 1. BẠN BÈ</h5>
 
 <p> ✨  Chào Tâm, bạn vừa đến Việt Nam phải không?</p>
@@ -21,6 +23,8 @@ Mình sẽ ở ký túc xá của trường trước, sau đó sẽ tìm phòng 
 <p> ✨ Không khó, bạn cầm theo hộ chiếu ra ngân hàng để làm. Ngân hàng nào cũng được</p>
 Vậy à, chiều nay mình sẽ đi. Và làm sao để thuê xe nhỉ?
 <p> ✨  Bạn có thể thuê xe tại trường luôn</p>
+
+![](44090-scaled.jpg)
 
 <h5 style="color:orange;">2. TÌM HIỂU</h5>
 
@@ -36,6 +40,8 @@ Vậy, lần sau chúng ta vẫn đi học chung nhé
 Cũng tùy vào thời gian, buổi sáng tớ sẽ uống cà phê sữa đá để tỉnh táo. Còn buổi chiều uống nước dừa là chủ yếu
 <p> ✧ Tớ cũng vậy đấy  ^ ^</p>
 
+![](hen-ho-da-nang-6.jpg)
+
 <h5 style="color:green;">3. HẸN HÒ</h5>
 
 <p> ✔️ Tâm ơi, tối tớ qua đón cậu đi ăn tối nhé
@@ -43,6 +49,8 @@ Cũng tùy vào thời gian, buổi sáng tớ sẽ uống cà phê sữa đá �
 <p> ✔️ Tuyệt đấy, tớ cũng đang thèm cơm. Thế có muốn đi tăng 2 không?
 Có chứ, trà sữa hay trà chanh
 <p> ✔️ Trà chanh, tớ đang giảm cân … haha
+
+![](800-500-15711677721471583394083-crop-15711678011981018379337.webp)
 
 <h5 style="color:red;">4. KẾT HÔN</h5>
 
@@ -57,6 +65,8 @@ Có chứ, chụp ảnh cưới vừa giúp chúng ta lưu giữ kỷ niệm và
 Tất nhiên là có, họ có dịch vụ trọn gói nên em không cần phải lo lắng
 <p> 🟢  Dạ. Một chút hồi hộp</p>
 
+![](ket-hon-la-gi-quy-dinh-moi-nhat-cua-phap-luat-ve-ket-hon-scaled.jpg)
+
 <h5 style="color:blue;">5. HÔN NHÂN</h5>
 
 <p> ✴️ Chúng ta phân chia công việc đi, anh Tuấn</p>
@@ -68,6 +78,8 @@ Không thành vấn đề. Hãy để anh đưa và đón em đi làm mỗi ngà
 <p> ✴️ Vâng. Anh muốn bố trí nội thất trong nhà thế nào?</p>
 Anh thì muốn càng đơn giản càng tốt, nên chúng ta không mua nhiều nội thất được không ?
 <p> ✴️ Dạ, em cũng suy nghĩ như vậy ạ. Sẽ giúp cho cuộc sống của chúng ta đơn giản hơn nữa. </p>
+
+
 
 *Nhắn tin cho cô nếu bạn có bất cứ câu hỏi nào!*
 
