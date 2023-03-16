@@ -79,7 +79,7 @@ Không thành vấn đề. Hãy để anh đưa và đón em đi làm mỗi ngà
 Anh thì muốn càng đơn giản càng tốt, nên chúng ta không mua nhiều nội thất được không ?
 <p> ✴️ Dạ, em cũng suy nghĩ như vậy ạ. Sẽ giúp cho cuộc sống của chúng ta đơn giản hơn nữa. </p>
 
-
+![](10-su-that-tan-nhan-ve-tinh-yeu-du-ban-khong-muon-cung-phai-chap-nhan-tinh-yeu3-1504712177-width600height372.jpg)
 
 *Nhắn tin cho cô nếu bạn có bất cứ câu hỏi nào!*
 
