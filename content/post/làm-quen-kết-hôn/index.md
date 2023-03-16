@@ -46,16 +46,16 @@ Có chứ, trà sữa hay trà chanh
 
 <h5 style="color:red;">4. KẾT HÔN</h5>
 
-<p> ✧ Chúng ta nên chuẩn bị gì để kết hôn nhỉ ?</p>
+<p> 🟢  Chúng ta nên chuẩn bị gì để kết hôn nhỉ ?</p>
 Vì quốc tịch khác nhau, nên chúng ta sẽ phải kết hôn ở Việt Nam và ở quê của em nữa. 
-<p> ✧ Ở Việt Nam, lễ kết hôn tiến hành như thế nào?</p>
+<p> 🟢  Ở Việt Nam, lễ kết hôn tiến hành như thế nào?</p>
 Đầu tiên, sẽ là Đám hỏi. Lúc này, gia đình 2 bên sẽ gặp mặt thông gia
 Sau đó, sẽ là Đám cưới. Thường ở Việt Nam sẽ mời gia đình, người thân và bạn bè đến tham gia đám cưới. 
-<p> ✧ Vậy chúng ta có cần chụp ảnh cưới không?</p>
+<p> 🟢  Vậy chúng ta có cần chụp ảnh cưới không?</p>
 Có chứ, chụp ảnh cưới vừa giúp chúng ta lưu giữ kỷ niệm và chúng ta sẽ treo 1 bức ảnh cưới ở nhà nữa  ^ ^
-<p> ✧ Thích quá… tuần sau mình đi chụp ảnh cưới luôn nhé. Ở tiệm váy cưới, có trang điểm luôn không?</p>
+<p> 🟢  Thích quá… tuần sau mình đi chụp ảnh cưới luôn nhé. Ở tiệm váy cưới, có trang điểm luôn không?</p>
 Tất nhiên là có, họ có dịch vụ trọn gói nên em không cần phải lo lắng
-<p> ✧ Dạ. Một chút hồi hộp</p>
+<p> 🟢  Dạ. Một chút hồi hộp</p>
 
 <h5 style="color:blue;">5. HÔN NHÂN</h5>
 
