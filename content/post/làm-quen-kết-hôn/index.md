@@ -68,3 +68,7 @@ Không thành vấn đề. Hãy để anh đưa và đón em đi làm mỗi ngà
 <p> ✴️ Vâng. Anh muốn bố trí nội thất trong nhà thế nào?</p>
 Anh thì muốn càng đơn giản càng tốt, nên chúng ta không mua nhiều nội thất được không ?
 <p> ✴️ Dạ, em cũng suy nghĩ như vậy ạ. Sẽ giúp cho cuộc sống của chúng ta đơn giản hơn nữa. </p>
+
+*Nhắn tin cho cô nếu bạn có bất cứ câu hỏi nào!*
+
+LINE: **hoangthigam**
