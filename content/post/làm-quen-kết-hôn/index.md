@@ -8,13 +8,9 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-QUAN HỆ
-
-
+**QUAN HỆ**
 
 <h5 style="color:chocolate;"> 1. BẠN BÈ</h5>
-
-
 
 <p> ✧ Chào Tâm, bạn vừa đến Việt Nam phải không?</p>
 Đúng rồi, mình sẽ bắt đầu học tại đây từ tuần này. Theo kế hoạch sẽ học trong 2 năm.
@@ -26,11 +22,7 @@ Mình sẽ ở ký túc xá của trường trước, sau đó sẽ tìm phòng 
 Vậy à, chiều nay mình sẽ đi. Và làm sao để thuê xe nhỉ?
 <p> ✧ Bạn có thể thuê xe tại trường luôn</p>
 
-
-
 <h5 style="color:orange;">2. TÌM HIỂU</h5>
-
-
 
 <p> ✧ Chào buổi sáng Tâm, cậu đi đâu vậy ?</p>
 Mình đi quán cà phê GM để học. Còn Tuấn?
@@ -44,11 +36,7 @@ Vậy, lần sau chúng ta vẫn đi học chung nhé
 Cũng tùy vào thời gian, buổi sáng tớ sẽ uống cà phê sữa đá để tỉnh táo. Còn buổi chiều uống nước dừa là chủ yếu
 <p> ✧ Tớ cũng vậy đấy  ^ ^</p>
 
-
-
 <h5 style="color:green;">3. HẸN HÒ</h5>
-
-
 
 <p> ✧ Tâm ơi, tối tớ qua đón cậu đi ăn tối nhé
 Ờ, tối nay chúng ta ăn cơm tấm nhé…. Thèm cơm lắm luôn ý. Lâu lâu lắm rồi chưa được ăn hạt cơm nào. 
@@ -56,11 +44,7 @@ Cũng tùy vào thời gian, buổi sáng tớ sẽ uống cà phê sữa đá �
 Có chứ, trà sữa hay trà chanh
 <p> ✧ Trà chanh, tớ đang giảm cân … haha
 
-
-
 <h5 style="color:red;">4. KẾT HÔN</h5>
-
-
 
 <p> ✧ Chúng ta nên chuẩn bị gì để kết hôn nhỉ ?</p>
 Vì quốc tịch khác nhau, nên chúng ta sẽ phải kết hôn ở Việt Nam và ở quê của em nữa. 
@@ -73,11 +57,7 @@ Có chứ, chụp ảnh cưới vừa giúp chúng ta lưu giữ kỷ niệm và
 Tất nhiên là có, họ có dịch vụ trọn gói nên em không cần phải lo lắng
 <p> ✧ Dạ. Một chút hồi hộp</p>
 
-
-
 <h5 style="color:blue;">5. HÔN NHÂN</h5>
-
-
 
 <p> ✧ Chúng ta phân chia công việc đi, anh Tuấn</p>
 Vậy anh cho em quyết định trước nhé
@@ -88,4 +68,3 @@ Không thành vấn đề. Hãy để anh đưa và đón em đi làm mỗi ngà
 <p> ✧ Vâng. Anh muốn bố trí nội thất trong nhà thế nào?</p>
 Anh thì muốn càng đơn giản càng tốt, nên chúng ta không mua nhiều nội thất được không ?
 <p> ✧ Dạ, em cũng suy nghĩ như vậy ạ. Sẽ giúp cho cuộc sống của chúng ta đơn giản hơn nữa. </p>
-
