@@ -1,5 +1,5 @@
 ---
-title: LÀM QUEN -> KẾT HÔN
+title: LÀM QUEN BẠN MỚI
 date: 2023-03-16T05:19:23.478Z
 draft: false
 featured: false
@@ -8,7 +8,9 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-**QUAN HỆ**
+LÀM QUEN -> KẾT HÔN
+
+**RELATIONSHIP  to MARRIAGE**
 
 ![](10-su-that-tan-nhan-ve-tinh-yeu-du-ban-khong-muon-cung-phai-chap-nhan-tinh-yeu1-1504712177-width600height369.jpg)
 
