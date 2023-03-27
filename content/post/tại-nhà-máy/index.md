@@ -74,7 +74,7 @@ Vậy nhà kho ở đâu?
 <p> 🟢 Tầng 1 là bộ phận bao bì và nhà kho.
 Hệ thống nhà xưởng rất tự động và sử dụng hệ thống robot & dây chuyền  sản xuất. Nhân viên của chúng tôi làm việc 3 ca, mỗi ca 8 giờ. 
 
-Công ty chúng tôi có xuất khẩu sản phẩm chủ yếu đến thị trường Âu – Mỹ.</p>
+Công ty chúng tôi chủ yếu xuất khẩu sản phẩm đến thị trường Âu – Mỹ.</p>
 
 Cảm ơn anh, chúng ta sẽ bàn bạc thêm về đơn đặt hàng lần này và những yêu cầu của chúng tôi tại văn phòng nhé.
 
