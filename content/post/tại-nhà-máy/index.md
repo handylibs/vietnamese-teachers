@@ -16,21 +16,32 @@ image:
 ![](1662708327-single_news7-maudondathang.jpg)
 
 <p> ✧ Hôm nay chúng ta có đơn đặt hàng cho sản phẩm A.</p>
+
 Dạ, số lượng bao nhiêu và thời gian giao hàng là khi nào ạ?
+
 <p> ✧ Lô này khách hàng đặt 1000 cái và hạn trong 3 tháng sẽ giao hàng. </p>
+
 Vâng ạ, chúng tôi xin tiếp nhận thông tin và báo lại đến các nhân viên 
+
 <p> ✧ Ngoài ra, vì lô hàng xuất khẩu này có số lượng lớn nên bộ phận kinh doanh và kế toán hãy làm việc với nhau để nhận trước cọc 50% từ khách hàng,
 số còn lại thanh toán vào tháng thứ 2 nhé. </p>
+
 Dạ. Và có cần thuê thêm công nhân thời vụ không ạ?
+
 <p> ✧ Có, bộ phận nhân sự hãy tính toán số lượng cụ thể và báo cáo tôi trong ngày mai</p>
+
+
 
 <h5 style="color:Red;">2.	Tăng ca</h5>
 
 ![](luong-lam-them-gio.jpg)
 
 <p> ✨ Chào mọi người, tuần này chúng ta phải tăng ca khá thường xuyên. Cảm ơn mọi người đã làm việc rất chăm chỉ. </p>
+
 Chào Sếp, không sao ạ. Rất vui vì có công việc ạ. 
+
 <p> ✨ Chúng ta sẽ phải giao gấp lô hàng lần này nên các anh cố gắng kiểm tra thật kỹ để không xảy ra các sai sót và lỗi sản phẩm. </p>
+
 Vâng, chúng tôi sẽ kiểm tra kỹ.
 
 <h5 style="color:Purple;">3.	Sản phẩm lỗi</h5>
@@ -38,9 +49,13 @@ Vâng, chúng tôi sẽ kiểm tra kỹ.
 ![](viele-maschinen-wenige.jpg)
 
 <p> ✴️ Tỷ lệ sản phẩm lỗi của ngày hôm nay khá cao, các anh kiểm tra thật kỹ lại cho tôi và không để tình trạng này tiếp tục xảy ra</p>
+
 Thưa Sếp, tôi sẽ thông báo ngay đến công nhân và kiểm tra vấn đề ngay lập tức.  
+
 <p> ✴️ Trong ngày mai, tất cả các sản phẩm lỗi của ngày hôm nay phải được hoàn thiện</p>
+
 Dạ. Chúng tôi sẽ thực hiện tăng ca tối hôm nay và tìm ra nguyên nhân rồi báo cáo lại giám đốc. 
+
 <p> ✴️ Được rồi. Mọi người quay lại làm việc đi. </p>
 
 <h5 style="color:Green;">4.	Tham quan nhà máy</h5>
@@ -48,7 +63,9 @@ Dạ. Chúng tôi sẽ thực hiện tăng ca tối hôm nay và tìm ra nguyên
 ![](thiet-ke-khong-ten-22.png)
 
 <p> 🟢 Tôi mời ông đi tham quan nhà máy.</p>
+
 Vâng, chúng ta cùng đi nhé
+
 <p> 🟢 Đây là phòng mua hàng của chúng tôi. Bộ phận quản lý hành chính ở đây và
 phòng kiểm tra chất lượng ở bên cạnh.</p>
 
