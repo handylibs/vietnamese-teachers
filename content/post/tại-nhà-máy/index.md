@@ -78,6 +78,6 @@ Công ty chúng tôi có xuất khẩu sản phẩm chủ yếu đến thị tr�
 
 Cảm ơn anh, chúng ta sẽ bàn bạc thêm về đơn đặt hàng lần này và những yêu cầu của chúng tôi tại văn phòng nhé.
 
-#### *Nhắn tin cho cô nếu bạn có bất cứ câu hỏi nào!*
+##### *Nhắn tin cho cô nếu bạn có bất cứ câu hỏi nào!*
 
-#### *LINE: hoangthigam*
+##### *LINE: hoangthigam*
