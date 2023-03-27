@@ -1,6 +1,6 @@
 ---
-title: TẠI NHÀ MÁY
-subtitle: " AT THE FACTORY"
+title: 4 GIAO TIẾP CƠ BẢN TẠI NHÀ MÁY
+subtitle: 4 CONVERSATIONS   AT THE FACTORY
 date: 2023-03-27T04:54:25.340Z
 draft: false
 featured: false
@@ -15,7 +15,6 @@ image:
 
 ![](1662708327-single_news7-maudondathang.jpg)
 
-
 <p> ✧ Hôm nay chúng ta có đơn đặt hàng cho sản phẩm A.</p>
 Dạ, số lượng bao nhiêu và thời gian giao hàng là khi nào ạ?
 <p> ✧ Lô này khách hàng đặt 1000 cái và hạn trong 3 tháng sẽ giao hàng. </p>
@@ -29,7 +28,6 @@ Dạ. Và có cần thuê thêm công nhân thời vụ không ạ?
 
 ![](luong-lam-them-gio.jpg)
 
-
 <p> ✨ Chào mọi người, tuần này chúng ta phải tăng ca khá thường xuyên. Cảm ơn mọi người đã làm việc rất chăm chỉ. </p>
 Chào Sếp, không sao ạ. Rất vui vì có công việc ạ. 
 <p> ✨ Chúng ta sẽ phải giao gấp lô hàng lần này nên các anh cố gắng kiểm tra thật kỹ để không xảy ra các sai sót và lỗi sản phẩm. </p>
@@ -38,7 +36,6 @@ Vâng, chúng tôi sẽ kiểm tra kỹ.
 <h5 style="color:Purple;">3.	Sản phẩm lỗi</h5>
 
 ![](viele-maschinen-wenige.jpg)
-
 
 <p> ✴️ Tỷ lệ sản phẩm lỗi của ngày hôm nay khá cao, các anh kiểm tra thật kỹ lại cho tôi và không để tình trạng này tiếp tục xảy ra</p>
 Thưa Sếp, tôi sẽ thông báo ngay đến công nhân và kiểm tra vấn đề ngay lập tức.  
@@ -49,7 +46,6 @@ Dạ. Chúng tôi sẽ thực hiện tăng ca tối hôm nay và tìm ra nguyên
 <h5 style="color:Green;">4.	Tham quan nhà máy</h5>
 
 ![](thiet-ke-khong-ten-22.png)
-
 
 <p> 🟢 Tôi mời ông đi tham quan nhà máy.</p>
 Vâng, chúng ta cùng đi nhé
@@ -64,3 +60,7 @@ Hệ thống nhà xưởng rất tự động và sử dụng hệ thống robot
 Công ty chúng tôi có xuất khẩu sản phẩm chủ yếu đến thị trường Âu – Mỹ.</p>
 
 Cảm ơn anh, chúng ta sẽ bàn bạc thêm về đơn đặt hàng lần này và những yêu cầu của chúng tôi tại văn phòng nhé.
+
+#### *Nhắn tin cho cô nếu bạn có bất cứ câu hỏi nào!*
+
+#### *LINE: hoangthigam*
