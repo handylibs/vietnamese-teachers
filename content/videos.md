@@ -6,7 +6,7 @@ widget: blank
 widget_id: videos-page
 headless: true
 weight: 40
-title: AT THE OFFICE
+title: GREETINGS
 subtitle: ""
 active: true
 design:
@@ -24,8 +24,10 @@ design:
 ---
 ## Greetings
 
-Xin chào bạn, cô là Hoàng Gấm Emma - Giáo viên dạy tiếng Việt
-Đây là bài học video ngắn chủ đề về giao tiếp công sở trong tiếng Việt.
+Xin chào bạn, cô là Hoàng Gấm Emma - Giáo viên dạy tiếng Việt.
+Đây là bài học video ngắn chủ đề về chào hỏi trong tiếng Việt.
+
+{{< youtube jUBdcfkiyX8 >}}
 
 {{< youtube jUBdcfkiyX8 >}}
 
