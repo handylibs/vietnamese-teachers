@@ -2,7 +2,7 @@
 widget: pages
 widget_id: videos
 headless: true
-weight: 30
+weight: 40
 title: Learning Videos
 subtitle: null
 content:
