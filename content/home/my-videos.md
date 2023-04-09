@@ -1,6 +1,6 @@
 ---
 widget: blank
-widget_id: my-videos
+widget_id: videos
 headless: true
 weight: 50
 title: Videos
