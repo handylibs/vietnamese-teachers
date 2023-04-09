@@ -28,7 +28,7 @@ design:
 
 Xin chào bạn, cô là Hoàng Gấm Emma - Giáo viên dạy tiếng Việt
 
-TRỜI ƠI, HỌC TIẾNG VIỆT DỄ LẮMMMM – LERNING VIETNAMESE IS EASYYYY 
+TRỜI ƠI, HỌC TIẾNG VIỆT DỄ LẮMMMM – LEARNING VIETNAMESE IS EASYYYY 
 
 I started teaching Vietnamese in 2017 and with accumulated experience, I decided to establish this center with the desire to introduce to foreigners the Vietnamese language and Vietnamese culture. We teach Vietnamese at all levels from pronunciation, conversation, grammar, test preparation for Vietnamese A1, A2, B1, B2, ... and depending on the requirements and learning goals of each student.
 
