@@ -14,6 +14,8 @@ image:
   preview_only: false
   alt_text: Teacher and students
 ---
+{{< youtube MEP96DI6W5o >}}
+
 </br>
 
 ##### **<h5 style="color:chocolate;">1. Chào hỏi</h5>**
@@ -312,8 +314,6 @@ Dạ, của anh chị là 650.000vnd ạ. 
 ✧   Trăm phần trăm (100%)
 
 ✧   Cạn ly
-
-{{< youtube MEP96DI6W5o >}}
 
 </br>
 
