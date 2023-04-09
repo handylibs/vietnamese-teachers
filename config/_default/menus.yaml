@@ -6,16 +6,19 @@
 main:
   - name: Home
     url: '#demo'
-    weight: 0
+    weight: 10
   - name: About
     url: '#about'
-    weight: 10
+    weight: 20
   - name: Posts
     url: '#posts'
-    weight: 20
+    weight: 30
+  - name: Videos
+    url: '#videos'
+    weight: 40
   - name: References
     url: '#projects'
-    weight: 35
+    weight: 50
   - name: Contact
     url: '#contact'
     weight: 60
