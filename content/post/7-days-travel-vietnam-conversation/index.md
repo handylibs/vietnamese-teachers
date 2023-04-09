@@ -16,7 +16,7 @@ image:
 ---
 {{< youtube MEP96DI6W5o >}}
 
-{{< video src="https://youtube.com/shorts/MEP96DI6W5o?feature=share" controls="yes" >}}
+{{< video src="https://youtube.com/shorts/MEP96DI6W5o" >}}
 
 </br>
 
