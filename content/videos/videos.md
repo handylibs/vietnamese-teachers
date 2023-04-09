@@ -1,24 +1,39 @@
 ---
+advanced:
+  css_style: ""
+  css_class: ""
 widget: blank
-widget_id: videos
+widget_id: videos-page
 headless: true
 weight: 40
-title: Learning Videos
+title: VIETNAMESE TEACHERS
+subtitle: ""
 active: true
 design:
-  columns: "2"
+  columns: "1"
   background:
-    text_color_light: false
-    image_darken: 0
+    gradient_start: "#d2944e"
+    gradient_end: "#dc4614"
+    text_color_light: true
+  spacing:
+    padding:
+      - 20px
+      - "0"
+      - 20px
+      - "0"
 ---
-**Greeting**
+## 👋 Welcome to the Vietnamese Teachers page
 
-{{< youtube MEP96DI6W5o >}}
+## About us
 
-**At the office**
+Xin chào bạn, cô là Hoàng Gấm Emma - Giáo viên dạy tiếng Việt
 
-{{< youtube MEP96DI6W5o >}}
+TRỜI ƠI, HỌC TIẾNG VIỆT DỄ LẮMMMM – LEARNING VIETNAMESE IS EASYYYY 
 
-**Travel**
+I started teaching Vietnamese in 2017 and with accumulated experience, I decided to establish this center with the desire to introduce to foreigners the Vietnamese language and Vietnamese culture. We teach Vietnamese at all levels from pronunciation, conversation, grammar, test preparation for Vietnamese A1, A2, B1, B2, ... and depending on the requirements and learning goals of each student.
 
-{{< youtube MEP96DI6W5o >}}
+*Learn Vietnamese 1 student - 1 tutor for all levels*
+
+{{< youtube jUBdcfkiyX8 >}}
+
+</br>
