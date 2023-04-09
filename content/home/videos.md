@@ -3,7 +3,7 @@ widget: blank
 widget_id: videos
 headless: true
 weight: 50
-title: Videos
+title: Learning Videos
 active: true
 design:
   columns: "2"
