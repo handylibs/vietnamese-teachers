@@ -9,4 +9,14 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-adfsdfds
+**Greeting**
+
+{{< youtube MEP96DI6W5o >}}
+
+**At the office**
+
+{{< youtube MEP96DI6W5o >}}
+
+**Travel**
+
+{{< youtube MEP96DI6W5o >}}
