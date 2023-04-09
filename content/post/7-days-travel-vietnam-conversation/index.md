@@ -16,8 +16,6 @@ image:
 ---
 {{< youtube MEP96DI6W5o >}}
 
-{{< video src="https://youtube.com/shorts/MEP96DI6W5o" >}}
-
 </br>
 
 ##### **<h5 style="color:chocolate;">1. Chào hỏi</h5>**
