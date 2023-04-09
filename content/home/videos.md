@@ -27,8 +27,8 @@ design:
 ## Greetings
 
 Xin chào bạn, cô là Hoàng Gấm Emma - Giáo viên dạy tiếng Việt.
-Đây là bài học video ngắn chủ đề về chào hỏi trong tiếng Việt.
+Đây là các bài học video ngắn với rất nhiều chủ đề khác nhau, ứng dụng trong các tình huống giao tiếp thực tế rất hữu ích.
 
-{{< youtube jUBdcfkiyX8 >}}
+{{< youtube MEP96DI6W5o >}}
 
 </br>
