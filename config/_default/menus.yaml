@@ -5,7 +5,7 @@
 
 main:
   - home: Home
-    url: '/'
+    url: '#demo'
     weight: 0
   - name: About
     url: '#about'
