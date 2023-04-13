@@ -36,8 +36,12 @@ Xin chào, cô là Hoàng Gấm Emma - Giáo viên dạy tiếng Việt.
 
 {{< youtube 0O7PDs88uNI >}}
 
-
-
 ## N﻿umber - 数字
 
 {{< youtube yWLE3FOpisI >}}
+
+
+
+## H﻿ow much? 多少钱- 
+
+{{< youtube watch?v=nCamNa-f1wc >}}
