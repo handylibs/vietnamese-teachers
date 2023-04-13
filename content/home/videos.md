@@ -28,7 +28,7 @@ Xin chào, cô là Hoàng Gấm Emma - Giáo viên dạy tiếng Việt.
 
 你好，我叫 Hoang Gam Emma - 越南语老师。 这些是包含许多不同主题的短视频课程，在现实生活中的交流情况下非常有用。
 
-## Greetings
+## Greetings - 问候
 
 {{< youtube MEP96DI6W5o >}}
 
@@ -38,6 +38,6 @@ Xin chào, cô là Hoàng Gấm Emma - Giáo viên dạy tiếng Việt.
 
 
 
-## N﻿umber
+## N﻿umber - 数字
 
 {{< youtube yWLE3FOpisI >}}
