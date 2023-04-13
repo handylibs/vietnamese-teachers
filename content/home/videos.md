@@ -22,7 +22,6 @@ content:
 design:
   view: compact
   columns: "2"
-
 ---
 ## Greetings
 
@@ -32,3 +31,5 @@ Xin chào bạn, cô là Hoàng Gấm Emma - Giáo viên dạy tiếng Việt.
 {{< youtube MEP96DI6W5o >}}
 
 </br>
+
+{{< youtube 0O7PDs88uNI >}}
