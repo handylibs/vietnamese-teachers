@@ -40,8 +40,6 @@ Xin chào, cô là Hoàng Gấm Emma - Giáo viên dạy tiếng Việt.
 
 {{< youtube yWLE3FOpisI >}}
 
-
-
-## H﻿ow much? 多少钱- 
+## H﻿ow much?  - 多少钱
 
 {{< youtube watch?v=nCamNa-f1wc >}}
