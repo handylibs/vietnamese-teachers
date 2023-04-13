@@ -23,13 +23,21 @@ design:
   view: compact
   columns: "2"
 ---
-## Greetings
-
-Xin chào bạn, cô là Hoàng Gấm Emma - Giáo viên dạy tiếng Việt.
+Xin chào, cô là Hoàng Gấm Emma - Giáo viên dạy tiếng Việt.
 Đây là các bài học video ngắn với rất nhiều chủ đề khác nhau, ứng dụng trong các tình huống giao tiếp thực tế rất hữu ích.
+
+你好，我叫 Hoang Gam Emma - 越南语老师。 这些是包含许多不同主题的短视频课程，在现实生活中的交流情况下非常有用。
+
+## Greetings
 
 {{< youtube MEP96DI6W5o >}}
 
 </br>
 
 {{< youtube 0O7PDs88uNI >}}
+
+
+
+## N﻿umber
+
+{{< youtube yWLE3FOpisI >}}
