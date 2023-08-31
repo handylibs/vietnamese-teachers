@@ -4,8 +4,8 @@ date: 2023-08-31T06:47:28.513Z
 draft: false
 featured: false
 image:
-  filename: featured
-  focal_point: Smart
+  filename: ""
+  focal_point: ""
   preview_only: false
 ---
 ## **<h5 style="color:chocolate;">1﻿. Vì.. nên - Because</h5>**
