@@ -31,3 +31,13 @@ image:
 \-﻿ Tôi làm việc từ 8 giờ sáng đến 5 giờ chiều
 
 \-﻿ Từ năm ngoái đến năm nay tôi không đi du lịch
+
+## **<h5 style="color:pink;">**4. M﻿ỗi .. một - Each .. one **</h5>**
+
+
+
+{{<https://youtube.com/shorts/Gm58260s_Yw>}}
+
+\-﻿ Mỗi ngày tôi uống hai cốc cà phê
+
+\-﻿ Mỗi ngày tôi làm việc 8 tiếng
