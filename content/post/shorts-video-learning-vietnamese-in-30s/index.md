@@ -34,10 +34,16 @@ image:
 
 ## **<h5 style="color:pink;">**4. M﻿ỗi .. một - Each .. one **</h5>**
 
-
-
 {{<https://youtube.com/shorts/Gm58260s_Yw>}}
 
 \-﻿ Mỗi ngày tôi uống hai cốc cà phê
 
 \-﻿ Mỗi ngày tôi làm việc 8 tiếng
+
+## **<h5 style="color:green;">**5. Cho em...Give me **</h5>**
+
+{{https://youtube.com/shorts/VV_km0SvjZ4}}
+
+\- Cho em một bát phở bò
+
+\- Cho em một cái bánh mì
