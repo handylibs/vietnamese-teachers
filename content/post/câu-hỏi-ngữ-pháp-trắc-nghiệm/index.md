@@ -9,7 +9,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-Câu 1: Bàn thắng không được công nhận, vì trọng tài cho rằng một cầu thủ đã phạm lỗi.....
+**<h5 style="color:GREEN;">** Câu 1: Bàn thắng không được công nhận, vì trọng tài cho rằng một cầu thủ đã phạm lỗi.....
 
 A. Liệt vị
 
@@ -52,8 +52,6 @@ Câu 1: B
 Câu 2: C
 
 Câu 3: C
-
-
 
 **Nhắn tin cho cô nếu bạn có bất cứ câu hỏi nào!**
 
