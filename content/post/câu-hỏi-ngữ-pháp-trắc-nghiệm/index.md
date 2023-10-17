@@ -19,6 +19,8 @@ C. Định vị
 
 D. Thiên vị
 
+</br>
+
 ![](sport-soccer-football-offside.png)
 
 ## **<h5 style="color:orange;">**Câu 2: Thử thách lớn nhất trong cuộc đời thường không xảy ra trong ... mà là sau khi đạt được thành công. </h5>
@@ -31,6 +33,8 @@ C. Nghịch cảnh
 
 D. Nghịch ngợm
 
+</br>
+
 ![](avatar1671432168565-1671432168820862529146.jpg.webp)
 
 ## **<h5 style="color:red;">**Câu 3: ... biết con đường phía trước còn nhiều chông gai, nhưng tôi sẽ không bỏ cuộc.</h5>
@@ -42,6 +46,8 @@ B. Nếu
 C. Dẫu
 
 D. Còn
+
+</br>
 
 ![](080420-1-.png.webp)
 
