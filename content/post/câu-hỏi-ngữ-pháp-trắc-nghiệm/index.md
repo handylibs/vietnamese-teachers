@@ -9,7 +9,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-**<h5 style="color:GREEN;">** Câu 1: Bàn thắng không được công nhận, vì trọng tài cho rằng một cầu thủ đã phạm lỗi.....
+## **<h5 style="color:GREEN;">** Câu 1: Bàn thắng không được công nhận, vì trọng tài cho rằng một cầu thủ đã phạm lỗi...</h5>
 
 A. Liệt vị
 
@@ -21,7 +21,7 @@ D. Thiên vị
 
 ![](sport-soccer-football-offside.png)
 
-Câu 2: Thử thách lớn nhất trong cuộc đời thường không xảy ra trong ... mà là sau khi đạt được thành công. 
+## **<h5 style="color:orange;">**Câu 2: Thử thách lớn nhất trong cuộc đời thường không xảy ra trong ... mà là sau khi đạt được thành công. </h5>
 
 A. Nghịch lý
 
@@ -33,7 +33,7 @@ D. Nghịch ngợm
 
 ![](avatar1671432168565-1671432168820862529146.jpg.webp)
 
-Câu 3: .... biết con đường phía trước còn nhiều chông gai, nhưng tôi sẽ không bỏ cuộc.
+## **<h5 style="color:red;">**Câu 3: ... biết con đường phía trước còn nhiều chông gai, nhưng tôi sẽ không bỏ cuộc.</h5>
 
 A. Chỉ
 
@@ -45,7 +45,7 @@ D. Còn
 
 ![](080420-1-.png.webp)
 
-Đáp án
+# Đáp án
 
 Câu 1: B
 
