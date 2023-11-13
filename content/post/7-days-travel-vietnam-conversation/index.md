@@ -16,6 +16,14 @@ image:
 ---
 {{< youtube MEP96DI6W5o >}}
 
+
+
+**Course:** https://www.udemy.com/user/hoang-thi-gam-2/
+
+**Youtube:** @VietnameseTeachers
+
+
+
 </br>
 
 ##### **<h5 style="color:chocolate;">1. Chào hỏi</h5>**
