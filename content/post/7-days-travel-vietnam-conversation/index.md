@@ -323,6 +323,10 @@ Dạ, của anh chị là 650.000vnd ạ. 
 
 *Nhắn tin cho cô nếu bạn có bất cứ câu hỏi nào!*
 
-LINE: **hoangthigam**
+**Course:** https://www.udemy.com/user/hoang-thi-gam-2/
+
+**Youtube:** @VietnameseTeachers
+
+**Contact LINE:** hoangthigam
 
 </br>
