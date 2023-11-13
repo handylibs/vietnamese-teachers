@@ -14,6 +14,8 @@ image:
 
 "Wikipedia"
 
+![](mon-an-tat-nien-640x450.jpg)
+
 ## **<h5 style="color:BROWN;"> TỪ VỰNG</h5>**
 
 Tất niên: Year End Party
@@ -26,6 +28,8 @@ Phong tục tập quán: Customs and traditions - 风俗习惯
 
 Gia chủ: Homeowner - 家主
 
+
+
 ## **<h5 style="color:Red;"> CÂU HỎI</h5>**
 
 **Câu 1: Tất niên tổ chức khi nào?**
@@ -36,6 +40,8 @@ b) Sau năm mới
 
 c) Gia đình cùng ăn cơm
 
+
+
 **Câu 2: Từ "sum họp" đồng nghĩa với từ nào?**
 
 a) Bữa tiệc
@@ -43,6 +49,8 @@ a) Bữa tiệc
 b) Đoàn tụ
 
 c) Tất niên
+
+
 
 **Câu 3: Vào ngày tất niên, mọi người sẽ làm gì?**
 
