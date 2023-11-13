@@ -30,6 +30,7 @@ image:
 ![](kinh-nghiem-mo-quan-ca-phe-binh-dan.jpg)
 
 **<h5 style="color:darkgreen;"> Câu 1. “Quán cà phê cóc” ở đoạn (1) có nghĩa là</h5>**
+
 <p>(a)Quán cà phê có bán cả trái cây như cóc, ổi, ... </p>
 <p>(b)Quán cà phê có bán kèm món thịt cóc, ếch. </p>
 <p>(c)Quán cà phê nhỏ, thường bán trên vỉa hè, góc phố. </p>
@@ -53,8 +54,6 @@ image:
 (c)Nói chuyện thời sự, chính trị để tăng hiểu biết. </p>
 (d)Nói chuyện làm ăn với bạn bè, đồng nghiệp. </p>
 
-
-
 **<h5 style="color:Green;">Câu 5. Từ câu cuối cùng của đoạn (3) “quán cóc... thường đông khách dù không phải quán cóc nào cà phê cũng ngon” có thể suy ra là...</h5>**
 (a)Người ta đến quán cóc chỉ để nói chuyện chứ không phải để uống cà phê. </p>
 (b)Người ta đến quán cà phê chỉ để ngắm cảnh mà thôi.</p>
@@ -72,8 +71,6 @@ image:
 (b)Cái thứ yếu</p>
 (c)Cái chủ yếu</p>
 (d)Cái chính thức</p>
-
-
 
 **<h5 style="color:DARKBLUE;">Câu 8. Câu “Nói về quán cóc ở Sài Gòn chẳng biết đến khi nào mới hết” ở đoạn (4) có nghĩa là...</h5>**
 (a)Quá nhiều quán cóc nên chẳng thể biết hết tên của chúng. </p>
@@ -100,4 +97,12 @@ image:
 
 **Nhắn tin cho cô nếu bạn có bất cứ câu hỏi nào!**
 
-*LINE: hoangthigam*
+
+
+
+
+**Course:** https://www.udemy.com/user/hoang-thi-gam-2/
+
+**Youtube:** @VietnameseTeachers
+
+***Contact LINE:** hoangthigam*
