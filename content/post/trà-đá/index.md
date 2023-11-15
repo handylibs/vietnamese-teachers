@@ -14,6 +14,18 @@ Trà đá được làm từ rất nhiều loại trà khác nhau, xuất xứ t
 
 "TRA DINH"
 
+TỪ VỰNG
+
+Phổ biến
+
+Hương vị
+
+Giá trị văn hoá 
+
+Xuất xứ
+
+Đậm đà 
+
 ![](trà-đá.jpg)
 
 
