@@ -15,3 +15,43 @@ Trà đá được làm từ rất nhiều loại trà khác nhau, xuất xứ t
 "TRA DINH"
 
 ![](trà-đá.jpg)
+
+
+
+Câu 1: Trà đá phổ biến ở đâu của Việt Nam?
+
+a) Miền Bắc
+
+b) Miền Nam
+
+c) Cả nước
+
+Câu 2: Từ " cội nguồn" ở trên có nghĩa là gì?
+
+a) Nơi bắt đầu của thức uống "trà đá"
+
+b) Nơi mọi người uống trà đá nhiều nhất
+
+c) Nơi trồng trà đầu tiên của Việt Nam
+
+Câu 3: Mọi người thường uống trà đá ở đâu
+
+a) Quán trà sang trọng
+
+b) Quán ăn truyền thống
+
+c) Bất kỳ đâu
+
+
+
+Đáp án:
+
+Câu 1 - C, Câu 2 - A, Câu 3 - C
+
+
+
+**Course:** https://www.udemy.com/user/hoang-thi-gam-2/
+
+**Youtube:** @VietnameseTeachers
+
+**Contact LINE:** hoangthigam
