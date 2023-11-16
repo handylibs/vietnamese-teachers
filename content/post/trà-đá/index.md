@@ -20,7 +20,7 @@ Trà đá được làm từ rất nhiều loại trà khác nhau, **xuất xứ
 
 ## <h5 style="color:green;">TỪ VỰNG</h5>
 
-Phổ biến - Popular 普遍
+Phổ biến - Popular - 普遍
 
 Hương vị - Smell - 口味
 
