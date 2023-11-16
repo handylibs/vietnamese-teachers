@@ -1,5 +1,5 @@
 ---
-title: "TRÀ ĐÁ "
+title: TRÀ ĐÁ - ICED TEA
 date: 2023-11-15T03:19:50.136Z
 draft: false
 featured: false
