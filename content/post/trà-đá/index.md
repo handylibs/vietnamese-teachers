@@ -36,9 +36,9 @@ Xuất xứ - Origin -  来历
 
 </br>
 
-<h5 style="color: red;">CÂU HỎI</h5>
+**<h5 style="color: red;">CÂU HỎI</h5>**
 
-Câu 1: Trà đá phổ biến ở đâu của Việt Nam?
+**Câu 1: Trà đá phổ biến ở đâu của Việt Nam?**
 
 a) Miền Bắc
 
@@ -50,7 +50,7 @@ c) Cả nước
 
 </br>
 
-Câu 2: Từ " cội nguồn" ở trên có nghĩa là gì?
+**Câu 2: Từ " cội nguồn" ở trên có nghĩa là gì?**
 
 a) Nơi bắt đầu của thức uống "trà đá"
 
@@ -62,7 +62,7 @@ c) Nơi trồng trà đầu tiên của Việt Nam
 
 </br>
 
-Câu 3: Mọi người thường uống trà đá ở đâu
+**Câu 3: Mọi người thường uống trà đá ở đâu**
 
 a) Quán trà sang trọng
 
@@ -74,7 +74,7 @@ c) Bất kỳ đâu
 
 </br>
 
-<h5 style="color:blue;">ĐÁP ÁN</h5>
+**<h5 style="color:blue;">ĐÁP ÁN</h5>**
 
 Câu 1 - C, Câu 2 - A, Câu 3 - C
 
