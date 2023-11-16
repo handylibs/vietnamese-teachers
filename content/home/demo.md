@@ -34,8 +34,12 @@ I started teaching Vietnamese in 2017 and with accumulated experience, I decided
 
 *Learn Vietnamese 1 student - 1 tutor for all levels*
 
-{{< youtube jUBdcfkiyX8 >}}
+</br>
 
-https://www.udemy.com/user/hoang-thi-gam-2/
+**Course:** https://www.udemy.com/user/hoang-thi-gam-2/
+
+**Youtube:** @VietnameseTeachers
+
+**Contact LINE:** hoangthigam
 
 </br>
