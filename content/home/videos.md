@@ -31,15 +31,3 @@ Xin chào, cô là Hoàng Gấm Emma - Giáo viên dạy tiếng Việt.
 ## Greetings - 问候
 
 {{< youtube MEP96DI6W5o >}}
-
-</br>
-
-{{< youtube 0O7PDs88uNI >}}
-
-## N﻿umber - 数字
-
-{{< youtube yWLE3FOpisI >}}
-
-## H﻿ow much?  - 多少钱
-
-{{< youtube nCamNa-f1wc >}}
