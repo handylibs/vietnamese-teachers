@@ -29,5 +29,3 @@ Xin chào, cô là Hoàng Gấm Emma - Giáo viên dạy tiếng Việt.
 你好，我叫 Hoang Gam Emma - 越南语老师。 这些是包含许多不同主题的短视频课程，在现实生活中的交流情况下非常有用。
 
 [**Shorts video learning Vietnamese in 30s - 问候**]({{< relref "/post/shorts-video-learning-vietnamese-in-30s" >}})
-
-<https://vietnameseteachers.com/post/shorts-video-learning-vietnamese-in-30s/>
