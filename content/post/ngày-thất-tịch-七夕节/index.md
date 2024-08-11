@@ -22,6 +22,12 @@ Người ta tin rằng nếu hai người yêu nhau cùng đi ngắm sao Ngưu L
 
 人们相信，如果两个相爱的人在7月7日晚上去看明星**牛郎織女**，他们就会永远在一起。 
 
+</br>
+
+<hr width="300px;">
+
+</br>
+
 ## **Tại sao nên ăn chè đậu đỏ vào ngày Thất tịch?**
 
 那天为什么要吃红豆汤？
@@ -35,3 +41,9 @@ Theo quan niệm cổ xưa của nhiều dân tộc phương Đông, đậu đ�
 Tương truyền, những người ăn đậu đỏ vào ngày Thất Tịch sẽ nhanh chóng tìm được người yêu khi còn độc thân và bên nhau trọn đời khi kết hôn.
 
 传说，在“七夕”吃红豆的人，单身时会很快找到情人，结婚后会永远在一起。
+
+</br>
+
+<hr width="300px;">
+
+</br>
