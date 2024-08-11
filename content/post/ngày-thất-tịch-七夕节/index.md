@@ -12,15 +12,15 @@ image:
 
 Ngày lễ Thất Tịch ở Việt Nam hay được gọi là "ngày ông Ngâu bà Ngâu". Gọi là như vậy vì trong ngày này thường có mưa ngâu.
 
-越南的**七夕节**通常被称为“Ông Ngâu Bà Ngâu”。因这一天经常下 "Mưa Ngâu" 雨而得名。
+越南的七夕节通常被称为“Ông Ngâu Bà Ngâu”。因这一天经常下 "Mưa Ngâu" 雨而得名。
 
 Tương truyền, mưa là giọt nước mắt của Ngưu Lang và Chức Nữ khi họ gặp nhau.
 
-传说，这雨是 **牛郎織女**相遇时的眼泪。
+传说，这雨是 牛郎織女相遇时的眼泪。
 
 Người ta tin rằng nếu hai người yêu nhau cùng đi ngắm sao Ngưu Lang Chức Nữ vào đêm 7/7 sẽ mãi mãi bên nhau. 
 
-人们相信，如果两个相爱的人在7月7日晚上去看明星**牛郎織女**，他们就会永远在一起。 
+人们相信，如果两个相爱的人在7月7日晚上去看明星牛郎織女，他们就会永远在一起。 
 
 </br>
 
