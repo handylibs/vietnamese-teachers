@@ -1,0 +1,29 @@
+---
+title: "TRUNG THU NGƯỜI VIỆT LÀM GÌ ? "
+subtitle: 越南人中秋节做什么？
+date: 2024-08-29T01:26:37.777Z
+draft: false
+featured: false
+image:
+  filename: featured
+  focal_point: Smart
+  preview_only: false
+---
+**TẾT TRUNG THU - NGÀY 15 THÁNG 8 ÂM LỊCH** 
+
+Tết Trung Thu, hay còn gọi là Tết Thiếu Nhi hoặc Tết Trông Trăng. Cũng trong dịp này người ta mua bánh trung thu, trà, rượu để cúng tổ tiên vào buổi tối khi Trăng Rằm vừa mới lên cao. Đồng thời trong ngày này, mọi người thường biếu cho ông bà, cha mẹ, thầy cô, bạn bè, họ hàng Bánh Trung Thu, hoa quả, trà và rượu. Đây là dịp mà người Việt, đặc biệt là trẻ em, tham gia vào nhiều hoạt động vui chơi và truyền thống đặc sắc. Dưới đây là một số hoạt động phổ biến trong Tết Trung Thu của người Việt:
+
+![Lễ hội Trung thu năm 2022 với "Bánh Trung Thu và trái cây 3 miền"](https://bcp.cdnchinhphu.vn/zoom/600_315/334894974524682240/2022/9/6/y-nghia-tet-trung-thu-truyen-thong-cua-viet-nam-1662431302225606175519-0-92-675-1172-crop-1662431333830244378647.jpg)
+
+1. **Rước đèn lồng**: Trẻ em thường cầm đèn lồng đủ màu sắc, hình dáng khác nhau như đèn ngôi sao, đèn cá chép, đèn thỏ ngọc, và đi diễu hành trên đường phố hoặc trong các khu phố.
+
+   ![](trung-thu-min-850x523.jpg)
+2. **Phá cỗ**: Mâm cỗ Trung Thu thường có bánh nướng, bánh dẻo (bánh trung thu), kẹo, trái cây như bưởi, na, chuối, hồng, và đặc biệt là các loại hoa quả được tỉa tót thành hình thù đẹp mắt.
+
+   ![Múa lân Trung thu: Sự rực rỡ của vũ điệu trong đêm hội Trăng Rằm](https://gcs.tripi.vn/public-tripi/tripi-feed/img/476152nmr/anh-mo-ta.png)
+3. **Múa lân**: Múa lân (hay múa sư tử) là một hoạt động vui nhộn, náo nhiệt, mang lại may mắn và niềm vui cho mọi người. Đây là màn biểu diễn của các nhóm thanh niên, thường đi kèm với trống chiêng rộn ràng.
+4. **Thả đèn trời**: Một số nơi có phong tục thả đèn trời hoặc đèn hoa đăng trên sông, biểu trưng cho những ước nguyện tốt lành, mong mọi điều may mắn sẽ đến.
+5. **Kể chuyện và diễn kịch về chú Cuội, chị Hằng**: Những câu chuyện dân gian về chú Cuội, chị Hằng thường được kể lại cho trẻ em nghe hoặc được diễn kịch nhằm gắn kết thêm truyền thống văn hóa và giáo dục.
+6. **Tặng quà Trung Thu**: Người lớn thường tặng quà cho trẻ em như bánh kẹo, đồ chơi, đèn lồng, tạo thêm không khí vui vẻ cho dịp lễ.
+
+Tết Trung Thu không chỉ là dịp để trẻ em vui chơi, mà còn là thời gian để gia đình quây quần, sum họp và chia sẻ những giây phút đầm ấm bên nhau.
