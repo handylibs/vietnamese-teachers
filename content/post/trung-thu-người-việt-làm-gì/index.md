@@ -13,13 +13,25 @@ image:
 
 ![Trung thu ngày mấy? Ý nghĩa quan trọng nhất của Tết Trung thu](https://phapluatxahoi.kinhtedothi.vn/stores/news_dataimages/2022/092022/06/14/3f75da0743f0e80f7cb665a0cc776691.jpg?rt=20220906145804)
 
-**Từ Vựng** 
+## **Từ Vựng** 
 
-* **Tết Trung Thu               Bánh Trung Thu** 
-* **Tổ tiên                    Hoạt động vui chơi**
-* **Truyền thống                Phong tục**
+**Tết Trung Thu: 中秋节**               
 
+**Bánh Trung Thu: 月饼**
 
+**Tổ tiên: 祖先**                    
+
+**Hoạt động vui chơi: 有趣的活动**
+
+**Truyền thống: 传统**                
+
+**Phong tục: 习俗**
+
+</br>
+
+<hr width="300px;">
+
+</br>
 
 **Tết Trung Thu** hay còn gọi là **Tết Thiếu Nhi** hoặc **Tết Trông Trăn**g. Cũng trong dịp này người ta mua bánh trung thu, trà, rượu để cúng tổ tiên vào buổi tối khi **Trăng Rằm** vừa mới lên cao. Đồng thời trong ngày này, mọi người thường biếu cho ông bà, cha mẹ, thầy cô, bạn bè, họ hàng **Bánh Trung Thu**, hoa quả, trà và rượu. Đây là dịp mà người Việt, đặc biệt là trẻ em, tham gia vào nhiều hoạt động vui chơi và truyền thống đặc sắc. Dưới đây là một số hoạt động phổ biến trong Tết Trung Thu của người Việt:
 
