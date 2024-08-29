@@ -50,7 +50,15 @@ image:
 5. **Kể chuyện và diễn kịch về chú Cuội, chị Hằng**: Những câu chuyện dân gian về chú Cuội, chị Hằng thường được kể lại cho trẻ em nghe hoặc được diễn kịch nhằm gắn kết thêm truyền thống văn hóa và giáo dục.
 
    ![Bí Quyết Tặng Quà Trung Thu Ghi Điểm Trong Mắt Người Yêu](https://mall.kayla.vn/wp-content/uploads/2024/07/bi-quyet-tang-qua-trung-thu-ghi-diem-trong-mat-nguoi-yeu.jpg)
+
+
 6. **Tặng quà Trung Thu**: Người lớn thường tặng quà cho trẻ em như bánh kẹo, đồ chơi, đèn lồng, tạo thêm không khí vui vẻ cho dịp lễ.
+
+   </br>
+
+   <hr width="300px;">
+
+   </br>
 
 **Tết Trung Thu không chỉ là dịp để trẻ em vui chơi, mà còn là thời gian để gia đình quây quần, sum họp và chia sẻ những giây phút đầm ấm bên nhau.**
 
