@@ -22,8 +22,14 @@ Tết Trung Thu, hay còn gọi là Tết Thiếu Nhi hoặc Tết Trông Trăng
 
    ![Múa lân Trung thu: Sự rực rỡ của vũ điệu trong đêm hội Trăng Rằm](https://gcs.tripi.vn/public-tripi/tripi-feed/img/476152nmr/anh-mo-ta.png)
 3. **Múa lân**: Múa lân (hay múa sư tử) là một hoạt động vui nhộn, náo nhiệt, mang lại may mắn và niềm vui cho mọi người. Đây là màn biểu diễn của các nhóm thanh niên, thường đi kèm với trống chiêng rộn ràng.
-4. **Thả đèn trời**: Một số nơi có phong tục thả đèn trời hoặc đèn hoa đăng trên sông, biểu trưng cho những ước nguyện tốt lành, mong mọi điều may mắn sẽ đến.
+
+   ![Dòng sông hoa đăng” ở Sài Gòn mừng đại lễ Phật đản](https://image.congan.com.vn/thumbnail/CATP-1037-2018-5-28/hoa-dang-2018-307.jpg)
+4. **Thả đèn trời, thả đèn hoa đăng**: Một số nơi có phong tục thả đèn trời hoặc đèn hoa đăng trên sông, biểu trưng cho những ước nguyện tốt lành, mong mọi điều may mắn sẽ đến.
+
+   ![Top 6 Kịch bản chương trình Trung thu của chú Cuội và chị Hằng đầy thú vị -  Mytour.vn](https://gcs.tripi.vn/public-tripi/tripi-feed/img/473661GgH/loi-dan-chu-cuoi-chi-hang-dem-van-nghe-trung-thu-1187461.jpg)
 5. **Kể chuyện và diễn kịch về chú Cuội, chị Hằng**: Những câu chuyện dân gian về chú Cuội, chị Hằng thường được kể lại cho trẻ em nghe hoặc được diễn kịch nhằm gắn kết thêm truyền thống văn hóa và giáo dục.
+
+   ![Bí Quyết Tặng Quà Trung Thu Ghi Điểm Trong Mắt Người Yêu](https://mall.kayla.vn/wp-content/uploads/2024/07/bi-quyet-tang-qua-trung-thu-ghi-diem-trong-mat-nguoi-yeu.jpg)
 6. **Tặng quà Trung Thu**: Người lớn thường tặng quà cho trẻ em như bánh kẹo, đồ chơi, đèn lồng, tạo thêm không khí vui vẻ cho dịp lễ.
 
 Tết Trung Thu không chỉ là dịp để trẻ em vui chơi, mà còn là thời gian để gia đình quây quần, sum họp và chia sẻ những giây phút đầm ấm bên nhau.
