@@ -9,13 +9,13 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-### THỨC UỐNG PHỔ BIẾN Ở VIỆT NAM 
+### THỨC UỐNG PHỔ BIẾN Ở VIỆT NAM
 
 ### 1. **Cà phê Việt Nam**
 
 * #### Cà phê sữa đá
 * #### Cà phê trứng
-* #### Cà phê dừa 
+* #### Cà phê dừa
 
   ![](black-and-white-modern-online-shop-facebook-post.png)
 
@@ -27,7 +27,7 @@ image:
 
 ### ![Nước mía có tác dụng gì đối với sức khỏe chúng ta?](https://cdn.nhathuoclongchau.com.vn/unsafe/800x0/https://cms-prod.s3-sgn09.fptcloud.com/nuoc_mia_co_tac_dung_gi_doi_voi_suc_khoe_1_3faa508da1.jpg)
 
-### 4. **Sinh tố**
+### 4. **Sinh tố - Nước ép**
 
 ### ![11 Quán Nước Ép Trái Cây Ở Hà Nội Chất Lượng Nhất](https://truejuice.vn/articles/wp-content/uploads/2023/03/quan-nuoc-ep-fresh-juice-truejuice.jpg)
 
